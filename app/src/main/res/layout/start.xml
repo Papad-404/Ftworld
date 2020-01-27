@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/Indo"
+        android:layout_width="394dp"
+        android:layout_height="155dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/apakek1" />
+
+    <TextView
+        android:layout_width="318dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Indo"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="-94dp"
+        android:text="@string/dongeng_nusantara"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp" />
+
+    <ImageButton
+        android:id="@+id/english"
+        android:layout_width="394dp"
+        android:layout_height="155dp"
+        android:layout_below="@id/Indo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/apakek2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_below="@+id/english"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="-94dp"
+        android:text="@string/dongeng_barat"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp" />
+
+    <ImageButton
+        android:id="@+id/islamic"
+        android:layout_width="394dp"
+        android:layout_height="155dp"
+        android:layout_below="@id/english"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:src="@drawable/apakek3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_below="@id/islamic"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="-140dp"
+        android:text="@string/dongeng_islami"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp" />
+
+</RelativeLayout>

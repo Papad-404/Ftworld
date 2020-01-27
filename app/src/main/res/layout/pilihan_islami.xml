@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/kisah"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:text="@string/judul"
+                android:textSize="12sp"
+                android:drawableTop="@drawable/crt1"/>
+
+            <Button
+                android:id="@+id/kisah2"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/kisah"
+                android:layout_toRightOf="@id/kisah"
+                android:drawableTop="@drawable/crt2"
+                android:text="@string/judul2"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah3"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/crt3"
+                android:text="@string/judul3"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah4"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah2"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/kisah3"
+                android:layout_toRightOf="@id/kisah3"
+                android:drawableTop="@drawable/crt4"
+                android:text="@string/judul4"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah5"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah3"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/crt5"
+                android:text="@string/judul5"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah6"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah4"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/kisah5"
+                android:layout_toRightOf="@id/kisah5"
+                android:drawableTop="@drawable/crt6"
+                android:text="@string/judul6"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah7"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah5"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/crt7"
+                android:text="@string/judul7"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah8"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah6"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/kisah7"
+                android:layout_toRightOf="@id/kisah7"
+                android:drawableTop="@drawable/crt8"
+                android:text="@string/judul8"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah9"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah7"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/crt9"
+                android:text="@string/judul9"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/kisah10"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/kisah8"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/kisah9"
+                android:layout_toRightOf="@id/kisah9"
+                android:drawableTop="@drawable/crt10"
+                android:text="@string/judul10"
+                android:textSize="12sp"/>
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+</RelativeLayout>
+

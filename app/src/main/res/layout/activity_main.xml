@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+        <ViewFlipper
+            android:id="@+id/flipper"
+            android:layout_width="match_parent"
+            android:layout_height="227dp"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="30dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"/>
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="343dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/flipper"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="91dp"
+        android:layout_marginBottom="-90dp"
+        android:text="@string/start_story"
+      />
+
+</RelativeLayout>

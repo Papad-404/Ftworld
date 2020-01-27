@@ -1,0 +1,1565 @@
+<resources>
+    <string name="app_name">Fairytales World</string>
+    <string name="start_story">Start Story</string>
+    <string name="settings">Settings</string>
+
+    <string name="pilih_switch">Pilih Switch</string>
+    <string name="text">Text</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="night_mode">Night Mode</string>
+
+    <string name="dongeng_nusantara">Dongeng Nusantara</string>
+    <string name="dongeng_barat">Dongeng Barat</string>
+    <string name="dongeng_islami">Dongeng Islami</string>
+    <string name="cerita_1">Buaya dan Burung Penyanyi</string>
+    <string name="cerita_8">Alju, si Anak Domba Putih</string>
+    <string name="cerita_3">Pando Mencari Teman Berpetualang</string>
+    <string name="cerita_4">Pikolo, Penyihir Periang</string>
+    <string name="cerita_5">Nenek Sihir dan Tukang Roti </string>
+    <string name="cerita_6">Selimut Kunang - Kunang</string>
+    <string name="cerita_7">Cecil si Naga Pemalas</string>
+    <string name="cerita_2">Owi, Kamu Tidak Jelek</string>
+    <string name="Buaya">
+        <p>\n Buaya dan Burung Penyanyi bersahabat akrab.
+        Hari ini mereka asyik bercakap. Burung Penyanyi bertengger di hidung Buaya. Namun, beberapa saat kemudian, Buaya merasa mengantuk.
+        Ia menguap dan membuka mulutnya lebar-lebar. Oh, Burung Penyanyi yang bertengger di hidung Buaya dan terpeleset masuk ke dalam mulut Buaya.
+            Sayangnya, Buaya tidak tahu. Ia bingung mencari Burung Penyanyi yang kini tak ada lagi di hidungnya.</p>
+        <br />
+
+        <p> \n \"Aneh! Ke mana Burung Penyanyi?\" gumam Buaya.
+            \"Ia pasti sedang mengajakku bercanda,\" </p>
+        <br />
+
+        <p> \n Buaya melihat ke belakang, ke ekornya.Namun, burung itu tidak ada. Buaya lalu mencari Burung Penyanyi di semak-semak.
+            Ia memasukkan moncongnya ke semak-semak di tepi sungai. Namun, Burung Penyanyi tetap tidak ditemukannya.</p>
+        <br />
+        \n \"Ke mana ia?\" gumam Buaya kembali.
+
+        <p>\n Buaya akhirnya memejamkan mata untuk tidur. Akan tetapi, tibatiba terdengar senandung merdu yang keluar dari dalam dirinya.</p>
+        <br />
+
+<p> \n \"Oh!\"serunya heran. Matanya terbuka lebar.
+    \n \"Selama hidup, baru kali ini aku dapat bernyanyi. Wow, aku akan mengajak Burung Penyanyi sahabatku untuk bernyanyi bersama. Pasti akan sangat menyenangkan!\"</p>
+
+<p> \n Buaya kemudian asyik mendengarkan senandung yang keluar dari dalam dirinya. Setelah beberapa lama ia merasa lelah. Ia lalu membuka mulutnya, dan menguap lebar-lebar.
+
+Ketika akan menutup matanya, ia melihat satu makhluk bertengger di hidungnya. Makhluk itu kelihatan sangat marah. Dia si Burung Penyanyi.
+        \n \"Kau jahat!\" omel burung itu.
+        \n \"Mengapa kau tidak memberi tahu kalau ingin membuka mulut? Aku terjatuh ke dalam mulutmu, tahu? Menyebalkan!\"
+
+\n Buaya mengernyitkan dahi.
+
+\n \"Jadi,\" katanya, \"senandung yang terdengar dari dalam diriku itu suara senandungmu? Bukan senandungku?\"
+
+\n \"Ya!\" jawab Burung Penyanyi. Ekornya digoyang-goyangkan.
+
+
+\n \"Kau kan tahu, kau tidak bisa bernyanyi sama sekali! Suaramu sangat sumbang! Tak enak didengar!\"
+
+\n Buaya sangat sedih mendengar perkataan itu. Air matanya menetes.
+        \n \"Aku pikir senandung itu suaraku,\" katanya pilu. \n \"Kau tahu, aku ingin sekali bisa bernyanyi.
+    Tadi kupikir aku sudah bisa menyanyi. Temyata? Oh, betapa malangnya aku yang bersuara buruk!\"</p>
+
+        <br />
+
+<p> \n Burung Penyanyi merasa iba. Ia segera mencari cara untuk menghibur sahabatnya itu.
+        \n \"Teman, bagaimana kalau kau membuat gelembung-gelembung air dan aku bersenandung? Kita lakukan bersamaan.
+        Suara yang terdengar pasti sangat enak didengar.\"
+
+\n Buaya setuju. Ia lalu memasukkan moncongnya ke dalam air dan membuat gelembung-gelembung. Burung Penyanyi bernyanyi.
+        Suara nyanyiannya sangat pas dengan suara gelembung-gelembung air yang dibuat Buaya.
+        Buaya senang sekali. Sejak itu mereka berdua selalu melakukan hal itu setiap hari.
+    Agar Burung Penyanyi tidak masuk lagi ke dalam mulutnya, Buaya selalu memberitahu dulu sebelum membuka mulutnya.</p>
+        <br/>
+
+        <p>\n Wow, rukun, ya, mereka!</p>
+
+    </string>
+
+
+    <string name="judul_buaya">Buaya dan Burung Penyanyi</string>
+    <string name="judul_owi">Owi, Kamu Tidak Jelek</string>
+    <string name="isi_owi">
+        <p> \n Matahari mulai terbenam. Burung-burung hantu bangun dan bersiap untuk berburu. Owi, anak burung hantu, bertengger di dahan.</p>
+        <br />
+        <p> \n Tiba-tiba Han, anak burung hantu lainnya, sudah bertengger di sisinya. Burung hantu memang mampu terbang di sisinya.
+            Burung hantu memang mampu terbang tanpa mengeluarkan bunyi.</p>
+        <br />
+
+<p> \n \“Owi, kita main dulu, yuk, sebelum berburu dengan ibu kita!\” ajak Han.
+
+\n \“Aku tidak mau main denganmu. Aku mau berteman dengan Nuri, yang berbulu indah. Atau dengan Kutut, burung perkutut yang suaranya merdu!\” kata Owi.
+
+\n \“Kamu tahu kan Han, kita ini payah. Wajah jelek, suara jelek. Orang menyebut kita burung hantu pula!\” gerutu Owi lagi.
+
+\n \“Kata ibuku kita istimewa. Bisa menangkap mangsa dengan cepat. Penglihatan kita di malam hari juga tajam.
+        Satu di antara empat jari kita punya sendi yang bisa digerakkan ke depan dan ke belakang,\” kata Han.
+
+    \n \“Sudahlah, pokoknya kita jelek!\” kata Owi, lalu meninggalkan Han. Han Cuma bisa menggeleng-geleng. Owi memang rada aneh, pikir Han.</p>
+        <br />
+
+        <p> Owi pergi ke rumah Nuri dan mengajak Nuri bermain.</p>
+
+\n \“Aduh, maaf ya, aku lelah setelah seharian mencari buah-buahan Aku mau tidur. Besok pagi saja, ya, mainnya!\” kata Nuri.
+        <br />
+
+\n Owi pun pamit dan menuju ke rumah Kutut. Baru saja ia bicara dengan Kutut, brrrr… brrrr… teman-teman dan keluarga Kutut semua terbang pergi.
+
+\n \“Lo, ada apa? Kenapa semuanya pergi?\” Tanya Owi heran.
+
+\n“Mereka takut kepadamu!\” jawab Kutut. \“Mereka, kan, belum kenal kamu!\”
+        <br />
+
+<p> Kutut ternyata juga tidak bisa main dengan Owi. Hari mulai gelap dan ia harus tidur. Besok pagi ia harus mencari makan, yaitu biji-bijian.
+
+    Owi kembali ke pohonnya dan ikut berburu bersama ibunya. Dalam kegelapan malam, Owi melihat seekor anak katak di bawah daun pohon talas. Swiiiing… owi segera menyambarnya.</p>
+
+<p> \n \“Kamu hebat ,Owi!\” puji ibunya.
+
+Owi senang, tetapi ia berkata, \“Buat apa pintar berburu. Penampilan dan suara kita begitu jelek. Teman-teman Kutut sampai terbang ketakutan ketika aku datang ke tempatnya!\”
+<br />
+\n \“Setiap burung di ciptakan Tuhan dengan kelebihan dan kekurangan masing-masing.
+        Bersyukurlah. Kedua mata kita terletak di depan, seperti mata manusia.
+        Letak mata burung-burung lain, ada di kiri dan kanan kepalanya. Bukankah kita istimewa?\” kata ibu Owi.
+        <br />
+
+\n \“Aaah, Ibu sama saja dengan ibu Han. Suka memuji diri sendiri!\” kata Owi. \“Pokoknya, besok malam aku tidak mau ikut berburu. Aku mau tidur saja supaya besok pagi
+    bisa bermain dengan Kutut dan Nuri!\”</p>
+        <br />
+
+<p> Besok malamnya, Owi benar-benar tak mau ikut berburu. Malam sangat sunyi.
+    Sesekali terdengar suara serangga malam. Owi mencari serangga di semak-semak untuk mengisi perut.</p>
+
+<p> \n \“Sssiiis… siiiisss…\” desis seekor ular besar. Owi terpaku melihatnya.
+
+    \n \“Owi, cepat terbang ke sini!\” terdengar suara Han. Dengan ketakutan Owi terbang ke sebuah pohon. Ia bertengger sambil menenangkan diri.</p>
+        <br />
+
+<p> \n "Aduh, Han, aku hamper saja celaka. Untung kamu memanggilku. Terima kasih, ya!\” kata Owi. \“Kamu tidak ikut ibumu berburu?\”
+        <br />
+
+\n \“Tadi perutku agak sakit, tapi sekarang sudah sembuh. Kamu juga tidak berburu?\” Tanya Han.
+        <br />
+
+\n \“Tidak, aku mau tidur supaya besok pagi bisa main dengan Nuri dan Kutut!\” jawab Owi. \“Tetapi dari tadi aku tidak bisa tidur.\”
+        <br />
+
+\n \“Kita tidak mungkin bisa tidur malam, Wi! Kita, kan, burung malam. Siang hari tidur dan malam berburu. Kalau Nuri dan Kutut, siang mencari makan dan malam hari mereka tidur,\”
+    ujar Han, \“Sudah ikut aku saja, yuk. Kita berlomba menangkap tikus atau katak. Setelah dapat, akan kubawa kau ke suatu tempat!\” </p>
+        <br />
+
+<p> \n Mereka lalu terbang dan masing-masing berhasil menangkap seekor katak. Han lalu mengajak Owi ke dalam hutan, menemui seekor burung hantu tua di hua lubang pohon.
+
+\“Nenek, aku dan temanku Owi membawakan katak untukmu!\” kata Han.
+        <br />
+
+\n \“Kalian anak-anak yang baik. Terima kasih, ya, Owi, kamu cantik sekali!\” kata burung hantu tua itu.
+        <br />
+
+\n \“Aku selalu merasa diriku jelek. Burung hantu lain juga jelek!\” kata Owi.
+
+\“Itu pikiran yang salah. Bagus dan jelek itu bukan tergantung pada ulu yang indah, atau suara yang bagus.
+    Tetapi, apakah kamu punya hati baik atau tidak. Kamu membawakan makanan untuk burung tua yang lamban. Itu artinya kamu bagus, tidak jelek!\” kata burung tua itu.</p>
+        <br />
+
+<p> \n Owi merasa kata-kata burung tua itu benar. Ia dan Han lalu pergi berburu lagi. Mejelang subuh, mereka pulang dan tidur.
+
+Ketika Owi terbangun, hari sudah petang lagi. Ia tidak bisa bermain dengan Kutut dan Nuri.
+    Namun, Owi tidak sedih karena ia sudah tau bahwa ia bukan burung hantu yang jelek. Ia berjanji akan lebih rajin latihan berburu.</p></string>
+
+    <string name="judul_pando">Pando Mencari Teman Berpetualang </string>
+    <string name="isi_pando">
+        <p> \n Pando adalah seekor anak beruang jantan. Ia tampan, gendut, dan pandai. Seperti induk-induk beruang lainnya, ibu Pando juga sering menasihatinya,
+
+\n \“Jangan pergi jauh-jauh, Pando. Dekat-dekat saja sama ibu. Kamu masih kecil. Banyak bahaya jika kamu pergi jauh-jauh. Kamu bisa dimangsa hewan besar,
+            masuk dalam perangkap, atau dipagut ular berbisa!\” </p>
+        <br />
+
+<p> \n Akan tetapi, Pando ingin bertualang. Ia membayangkan senangnya berjalan-jalan di hutan bersama teman. Sayang, tak ada anak beruang lainnya yang mau menentang nasihat
+    ibu mereka.</p>
+<br/>
+<p> \n Ketika ibunya lengah, Pando pun pergi sendiri. Mula-mula ia bertemu seekor anak rajawali. Ia mengajak anak rajawali itu bertualang bersamanya.
+        Namun, anak rajawali itu berkata,
+        <br />
+
+\n \“Aku tidak suka berjalan. Aku suka terbang tinggi. Kalau kamu bisa terbang, ayo kita bersama-sama mengarungi angkasa!\”
+
+\n \“Yaaa, aku tidak bisa terbang. Kata ibuku tulang kami padat, jadi kami tidak bisa terbang!\” kata Pando sedih. \“Lagipula kami, kan, tidak punya sayap!\”
+
+    \n \“Iya, kata ibuku, kami bangsa burung, bisa terbang karena tulang kami berongga dan punya sayap,\” kata anak burung rajawali.</p>
+        <br/>
+
+<p> \n Pando melanjutkan perjalanannya sendirian. Ia bertemu seekor anak zebra yang sedang makan rumput di dekat kawanannya.
+
+Ketika Pando mengajaknya bertualang, anak zebra berkata,
+
+\n \“Wah, kuda zebra saja tidak berani berjalan sendiri meninggalkan kelompok. Kalau kami sendirian, musuh akan menerkam kami dengan mudah.
+    Kalau berkelompok, musuh akan melihat kami sebagai kesatuan, seperti benda belang hitam putih yang besar sekali. Jadi, kami aman!\”</p>
+        <br/>
+
+<p> \n Pando pamit dan berjalan lagi. Setiba di sebuah gua besar ia melihat dua ekor anak harimau.
+
+Pando memperkenalkan namanya dan menyampaikan maksudnya. Salah seekor anak harimau itu berkata,
+
+\n \“Ibu kami sedang berburu. Kami disuruh menunggu di sini karena ini gua yang aman. Kami tidak boleh keluar.\”
+        <br/>
+
+    \n Pando menghela nafas. Susah amat, sih, mencari teman bertualang.</p>
+        <br/>
+
+<p> \n \“Sepertinya tidak ada yang mau ikut berpetualang bersamaku!\” keluh Pando pada anak-anak harimau itu.
+
+\n \“Saya mau, kok!\” terdengar sebuah suara yang halus. Pando menoleh kearah suara itu. Aaah! Seekor anak ular yang bersisik hitam kekuningan!
+
+    \“Saya juga sendirian, saya kesepian!\”</p>
+        <br/>
+
+<p> \n Waaaah, Pando berlari pergi. Itu, kan, ular berbisa!
+
+\n \“Sana, sana, menjauh dariku. Ibumu pasti ada di dekat sini. Ibumu sangat berbahaya!\” kata Pando panik.
+
+\n \“Tidak, Pando,\” anak ular menyahut manis. “\Sejak lahir, ibuku tidak peduli padaku dan saudara-saudaraku. Malah aku tidak tahu ibuku ada di mana.
+        Kami dibiarkan mencari makan dan berkelana sendiri. Semua saudaraku sudah mati dimangsa, diburu, kepanasan, kedinginan atau kelaparan. Aku mau menemanimu bertualang!\”
+
+    \n \”Ah, kasihan sekali kamu. Ibuku menjagaku baik-baik dan memberiku makanan enak!\” kata Pando.</p>
+        <br/>
+
+<p> \n Tiba-tiba saja ia teringat pada ibunya. Mungkin ibunya sekarang sedang bingung karena kehilangan dia.
+
+\n \“Hei, hei, kalian berdua pergilah. Kalau ibu kami datang, kalian berdua dalam bahaya. Ibuku paling tidak suka kalau ada hewan lain berada di dekat anaknya!\”
+    tegur salah seekor anak harimau.</p>
+        <br />
+
+<p> \n Pando merasa tidak aman berteman dengan anak ular. Ia pun berlari pergi sambil berseru,
+
+\n \“Maaf ya, teman. Ibuku pasti sedang mencariku. Aku harus pulang!\” Tubuhnya yang gemuk pendek bergoyang-goyeng ketika berlari.
+
+\n Tiba-tiba… BHUK! BHUK!
+
+    \n Dua hantaman keras menghantam pantat Pando sampai ia terjatuh. Pando sangat terkejut dan kesakitan.</p>
+        <br />
+
+<p> \n \“Mati aku!\” pikir Pando.
+
+Dengan gemetar Pando bangkit dan menatap penyerangnya. Puuufh, Pando bernafas lega. Di hadapannya berdiri ibunya dan memandangnya dengan marah.
+
+    \n \“Anak nakal! Sudah Ibu bilang jangan pergi jauh-jauh. Ini malah mendekati anak harimau dan ngobrol dengan anak ular!\” omel Ibu Pando.</p>
+        <br />
+
+
+<p>\n \“Maafkan Pando, Bu!\” ujar Pando tetap gembira walau dimarahi. \“Bu, ibu ular itu tidak menjaga anak-anaknya. Semua saudara anak ular itu sudah mati!\” kata Pando.
+        \“Tetapi ibu menjagaku dengan sangat baik!\”
+
+\n \“Iya, tetapi kamu malah bandel!\” kata ibu Pando masih jengkel.
+
+\n \“Bu, aku berjanji akan dekat-dekat ibu selamanya!\” kata Pando sungguh-sungguh.
+
+\n \“Iiih, tidak perlu selamanya!\” kata ibu Pando. \“Bila sudah dewasa seperti ayahmu, kamu boleh berpetualang ke mana saja.
+    Pada waktu itu, kamu sudah bisa melindungi dirimu sendiri. Jadi, sabar saja sampai kamu dewasa!\”</p>
+
+        <p>Wah, Pando senang sekali mendengar penjelasan ibunya.</p>
+        <br />
+
+<p> \n \“Sekarang, aku janji akan belajar dengan rajin, Bu,\” ucap Pando manja. \“Aku juga harus makan yang banyak ya, Bu, supaya cepat besar!\”
+
+    Ibu Pando tertawa.</p></string>
+
+    <string name="judul_pikolo">Pikolo, Penyihir Periang</string>
+    <string name="isi_pikolo">
+        <p> \n Pikolo adalah seorang pemuda biasa yang ramah dan periang. Ia bekerja sebagai tukang asah pisau dan gunting keliling.
+        Pikolo menyukai pekerjaannya. Bunyi pisau beradu dengan batu gerinda terdengar merdu di telinga Pikolo.
+            Ia juga senang bercakap-caap dengan ibu-ibu langganannya, mendengarkan suka duka mereka.</p>
+        <br />
+
+<p> \n Suatu hari, seorang penyihir tua mengamati Pikolo yang sedang bekerja. Ketika Pikolo sendirian, penyihir tua mendekatinya dan berkata.
+
+\n \“Pikolo, aku senang melihat sifatmu yang ramah dan riang. Aku ini seorang penyihir. Aku ingin pension dari seorang penyihir.
+        Aku ingin bertani bunga dan bermain dengan cucu-cucu. Apa kau mau, kalau aku mewariskan ilmu sihirku kepadamu?\”
+        <br />
+
+\n \“Boleh, terima kasih. Nanti aku bisa menyihir batu menjadi cokelat, supaya bisa membuat anak-anak gembira!\” kata Pikolo dengan riang.
+
+\n \“Tentu saja. Tetapi ilmu sihirku tidak boleh digunakan untuk berbuat jahat!\” pesan si penyihir tua.
+</p>
+        <br />
+        <p> \n Berbulan-bulan lamanya Pikolo belajar hingga akhirnya dia lulus. Si penyihir tua bahkan memerikan buku dan tongkatnya.</p>
+        <br />
+
+<p>\n Suatu pagi, Pikolo keluar rumah untuk mempraktekan sihirnya. Ia bertemu beberapa anak yang sedang bermain kelereng.
+
+    \n \“Sim salabim, akakadabra!\” Pikolo menyihir beberapa batu menjadi cokelat. Waaah… anak-anak itu berebut memungut cokelat dengan gembira. </p>
+        <br />
+
+<p> \n Kemudian Pikolo melewati pemetang sawah. Di saung, ada suami istri petani sedang sarapan nasi dengan tempe goreng, sambal dan lalap.
+        Pikolo merasa kasihan dan mengubah tempe itu menjadi rasa ayam goreng,
+
+\n \“Kok, rasa tempe ini seperti ayam goreng, ya, Bu?\” Tanya si petani.
+
+    \n \“Mungkin hatimu sedang gembira, Pak. Jadi makanan itu terasa lebih nikmat!\” jawab istrinya sambil tersenyum.</p>
+
+<p> \n Malam harinya, Pikolo merenung di tempat tidurnya.
+    \n \“Ternyata, jadi tukang sihir lebih menyenangkan daripada jadi tukang asah pisau!\”</p>
+        <br />
+
+<p> \n Esok harinya, Pikolo memulai lagi aksinya. Ia menyihir permen berbentuk beruang dan memberikannya pada seorang anak kecil yang menangis.
+    Ia membuat buah-buah di kios Pak Amat menjadi segar dan menarik. Pembeli pun banyak berdatangan.</p>
+        <br />
+
+<p> \n Lama kelamaan, semakin banyak orang yang tahu kalau Pikolo bisa sihir. Hidup Pikolo mulai tidak tenang.
+        Pagi, siang, malam, orang-orang dating ke rumah meminta tolong. Beberapa orang meminta hal-hal yang aneh.
+        Misalnya, yang bermata sipit minta diperbesar. Yang bermata besar minta dikecilkan. Yang pendek ingin tinggi,
+    yang tinggi ingin dikurangi tingginya. Pikolo terpaksa menolak permintaan mereka.</p>
+        <br />
+
+<p> \n Suatu hari, Pikolo tidak tahan lagi menghadapi banyak permintaan. Ia pun pergi dari rumahnya. Setelah berjalan jauh,
+        ia beristirahat di tepi sungai. Seorang pemancing datang dan duduk di dekatnya. Mereka bercakap-cakap.
+        Pikolo mengatakan bahwa ia sedang mencari pekerjaan.
+
+\n \“Carilah pekerjaan yang kamu sukai. Hidup kita tidak sampai 100 tahun!\” nasihat si pemancing.
+
+\n \“Aku suka memancing dan pekerjaan ini kulakukan, walau ada orang yang mengatakan pekerjaan ini membosankan!\”
+
+    \n \“Wah, nasihatmu sangat bagus!\” kata Pikolo.</p>
+        <br />
+
+<p> \n Pikolo berjalan lagi. Ia sudah tahu apa yang harus ia lakukan. Ia akan tetap menyihir, tetapi berpindah-pindah dari satu tempat ke tempat lain.
+    Jadi, tidak ada orang yang kenal padanya dan ia bisa menyihir sesuka hatinya. Kembali Pikolo menjalai hari-harinya dengan riang.</p>
+        <br />
+
+<p> \n Setelah dua minggu berlalu, suatu malam, Pikolo merasa sangat kesepian.
+        ia hanya menyaksikan wajah-wajah gambar orang yang menerima kejutan sihirnya.
+        Tetapi mereka tidak tahu bahwa Pikolo yang melakukan sihir itu. Ia merindukan saat-saat ia jadi tukang asah pisau.
+    Saat-saat ia saling berbagi cerita dengan ibu-ibu pelanggannya.</p>
+        <br />
+        <p> \n Selama dua minggu ini, ia tidak bicara pada siapa pun. Kecuali berbasa-basi dengan orang-orang di kedai makan.
+
+Maka Pikolo pun pulang ke kampungnya, ke rumahnya lagi. Kembali ia menjadi tukang asah pisau. Kembali ia bercakap-cakap dengan ibu-ibu pelanggannya.
+            Ketika orang-orang memintanya melakukan sihir, Pikolo tersenyum dan menggelengkan kepala.</p>
+        <br />
+
+        <p> \n \“Aku hanya akan menyihir di pesta ulang tahun anak-anak. Anak-anak bisa menikmati sihirku seperti menonton sulap!\” kata Pikolo.</p>
+        <br />
+
+<p> Demikianlah, Pikolo menerima undangan-undangan pesta ulang tahun anak-anak. Ia menyihir banyak kelinci dari topinya.
+        Ketika anak-anak memegang kelinci di tangannya, kelinci itu berubah jadi topi lagi.
+    Ia menyihir air putih di gelas anak-anak menjadi es krim yang lezat. Pikolo senang bisa membuat anak-anak gembira.</p>
+        <br />
+
+<p>Sekarang, Pikolo adalah penyihir periang dan juga tukang asah pisau yang ramah. I
+        a sudah melakukan pekerjaan yang disukainya.
+    Sudahkah kamu melakukan apa yang kamu sukai dan membuat orang lain gembira? </p> </string>
+
+    <string name="judul_nenek">Nenek sihir dan Tukang Roti</string>
+    <string name="isi_nenek">
+
+        <p> \n Pada tahun 1655 di Amerika, tinggal seorang tukang roti bernama Pak Baas dengan istrinya. Roti buatan Pak Baas sangat enak.
+            Sampai-sampai penduduk seberang sungai pun tahu. Hari itu menjelang Tahun Baru. Pak Baas akan membuat roti tahun baru yang lezat untuk dijual.</p>
+
+        \n <br/>
+<p> \n Seperti biasa, banyak orang berdatangan untuk membeli kue. Tak terasa hari sudah menjelang sore. Pak Baas pun segera menutup tokonya.
+    Namun kemudian datang seorang nenek penyihir berpakaian aneh.</p>
+        <br />
+
+        <p> \n Nenek itu berkata, \"Mmm…, permisi… Saya ingin beli kue tahun baru satu lusin.\"</p>
+
+        \n <br />
+<p> \n Pak Baas segera mengambilkan kue untuk nenek penyihir itu.
+
+    \n \"Ini, Nek, kuenya,\" kata Pak Baas.</p>
+
+       \n <br />
+        <p> \n Namun si nenek menggerutu, \"Saya kan minta satu lusin. Ini cuma dua belas kue. Saya minta satu lagi.\"</p>
+
+<p> \n Pak Baas kemudian menjelaskan, kalau satu lusin itu berjumlah 12 kue. Akan tetapi si nenek penyihir meminta satu kue lagi. Pak Baas jadi jengkel.
+
+    \n \"Pergilah dari sini! Mintalah kue pada hantu-hantu jahat di luar sana!\" usir Pak Baas.</p>
+        <br />
+
+        <p> \n Si nenek penyihir merasa marah dan sedih karena tidak mendapat kue tahun baru. Ia pun pergi meninggalkan toko.</p>
+
+        \n <br/>
+<p> \n Ah… Pak Baas kesal sekali hari ini. Setibanya di rumah ia menceritakan kejadian di toko pada istrinya. Ibu Baas hanya tersenyum.
+        Dengan sabar ia berkata, \"Sudahlah Pak. Bagaimana kalau tahun baru ini kita sediakan kue lebih untuk para pembeli.\"
+        Pak Baas cemberut mendengar perkataan istrinya,
+
+    \n \"Enak saja. Nanti kita rugi. Pokoknya tidak ada kue lebih untuk mereka!\" Wah, pelit sekali Pak Baas!</p>
+
+        \n <br />
+<p> \n Esoknya Pak Baas kembali membuat kue dan membuka tokonya. Akan tetapi terjadi hal-hal aneh. Tiba-tiba saja uang
+
+Pak Baas dari penjualan kuenya hilang. Tempat memanggang kuenya meledak. Peralatan membuat kuenya juga rusak.
+        Kejadian itu berulang terus sampai akhimya toko kue Pak Baas menjadi rugi. Pak Baas kebingungan.
+    Kemudian ia mengingat-ingat, apakah ia pernah berbuat sesuatu yang membuatnya tertimpa sial.
+
+\n \"Aaaaa.. .jangan-jangan karena perkataanku pada si nenek. Apakah dia itu penyihir?\" Tiba-tiba saja terdengar suara tawa halus di dekat Pak Baas.
+
+\n "Hi…hi itulah hukuman dari kami, hantu-hantu tahun baru. Akibat kau berlaku tidak baik pada perayaan tahun baru.
+    Sekarang kau harus minta maaf pada penyihir malang itu.\"</p>
+
+        \n <br />
+<p> \n Setelah suara itu menghilang, ternyata si nenek sihir sudah berada di hadapan Pak baas.
+
+Dengan muka cemberut ia berkata, \"Aku mau membeli kue tahun baru satu lusin.\"
+
+\n Kali ini Pak Baas bergegas mengambilkan 13 kue tahun baru dan berkata,
+
+\n \"Nah, ini Nek satu lusin kue tahun baru. Dan maafkan saya, Nek....\" Si Nenek mengambil kue sambil tersenyum.
+
+\n Lalu ia berkata pelan, \"Kutukanku sekarang sudah berakhir... Sekarang berjanjilah padaku, untuk seterusnya satu lusin kue itu akan tetap berjumlah 13!\"
+    Pak Baas mengangguk.</p>
+        <br />
+        <p> \n Sebelum pulang, nenek itu berkata,
+        \"Ingatlah, suatu saat nanti, angka 13 akan menjadi keramat dan menyebar ke seluruh dunia. Dan semua orang akan mengingat aku....hihhi...\"
+        </p> </string>
+    <string name="judul_cecil">Cecil, Si Naga Pemalas</string>
+    <string name="isi_cecil">
+
+        <p> \n Cecil Naga sudah beranjak dewasa. Namun ia masih tinggal bersama kedua orang tuanya.
+            Rumah mereka yang mungil, amat rapi dan bersih. Kecuali kamar Cecil. Cecil memang naga pemalas.
+            Tapi sebenarnya ia punya kelebihan. Napasnya bisa mengeluarkan api yang sangat panas.
+            Bisa membuat masakan matang, hanya dengan sekali dengus. </p>
+        \n <br/>
+
+            <p> \n Kegemaran Cecil membaca komik. Bisa seharian ia tiduran di ranjang, membaca puluhan seri buku. Menurut Cecil,
+            \n \"Untuk apa bekerja, kalau tanpa berbuat sesuatu pun sudah bisa menikmati hidup?\"
+                \n Mamanya sering bertanya, \"Kelak kau ingin jadi apa, Cecil? Tak mungkin kau begini terus sampai tua.\"
+                \n \"Cecil, pergilah mencari pekerjaan,\" begitu biasanya papanya menyambung, dengan wajah merah menahan marah.
+                \n \"Jangan cemas, Pap dan Mam tercinta,\" begitu selalu jawaban Cecil. Sambil menggoyangkan ekornya dengan santai.
+                \n \"Saat ini untuk apa aku pusing-pusing cari kerja? Aku sudah mendapat segala yang kuinginkan.\" </p>
+        \n <br/>
+
+<p> \n Suatu hari, seperti biasa, Cecil bergulingan di ranjang membaca buku komik. Papa pergi kerja, Mama pergi belanja.
+    Setelah menarik napas dalam-dalam, Cecil menghembus sambil bergumam,
+    \n \"Aaah, nikmatnya hidup ini!\" </p>
+        \n <br/>
+
+<p> \n Tanpa disadarinya titik-titik api dari dengusnya memercik ke korden kamarnya! Cecil baru sadar setelah mencium bau asap.
+    Tubuhnya terasa hangat. Tapi Cecil cuma menggoyang bahu. Kenapa harus repot-repot? Nanti, Mama atau Papa yang akan membereskan.
+    Namun nyala api semakin besar. Berkobar di sekitarnya. Seluruh rumah dijilati api, termasuk ranjang dan komik-komik Cecil!
+    Naga malas itu akhirnya lari keluar kamar sebelum rumahnya roboh.
+    Cecil tidak terluka. Cuma ekornya melepuh. Ia lari ke kolam angsa untuk mendinginkan ekornya.
+    Sssss… terdengar suara berdesis. </p>
+        \n <br/>
+
+<p> \n Ketika Mama Papa Cecil pulang kerja, tampak Cecil masih mengenakan piyama, meringkuk di halaman depan.
+    Di belakang nampak rumah mereka yang kini sudah menjadi puing-puing. Kali ini kelakuan Cecil sudah keterlaluan.
+    Mamanya sedih sekali. Dihabiskannya dua puluh satu saputangan untuk mengeringkan air matanya.
+    Papanya marah sekali, wajahnya berubah semerah apel. Diomelinya Cecil lebih setengah jam. Tapi Cecil tidak mendengarkan.
+    Pikirannya menerawang. </p>
+        \n <br/>
+
+    <p> \n Akhirnya, ketika omelan Papa selesai, Cecil Naga berkata,
+        \n \"Papa tidak perlu cemas. Hidup kita segera membaik. Tunggu, tidak akan lama lagi.\"
+        \n \"Bagaimana mungkin?\" Papa kembali meraung, warna mukanya merah padam, seperti buah prem.
+        \n \"Kau tidak pernah berbuat sesuatu. Kecuali malas-malasan, baca komik, dan bikin rumah pondok kita terbakar!\"
+        \n Cecil menjawab, \"Untuk sementara, Pap dan Mam tinggal di rumah Bibi Lusi. Aku sudah punya rencana. Sebentar lagi aku punya pekerjaan yang luar biasa.\" </p>
+        \n <br />
+
+        <p> \n Kali ini Cecil benar-benar memiliki rencana. Ketika meringkuk di kolam mendinginkan ekornya, ia melihat antrian panjang pembeli di depan kios hamburger Sid Rubah.
+            Mereka jengkel karena Sid Rubah bekerja lamban. Hamburger pesanan mereka tidak segera matang. Melihat antrian itu, Cecil mendapat gagasan. </p>
+        \n <br/>
+
+    <p> \n Di atas bekas rumah pondoknya, ia membangun sebuah kios hamburger, dan makanan cepat saji lainnya.
+    Di depan kios dipasangnya papan besar: <b> KIOS CECIL - MAKANAN PALING CEPAT SAJI</b>.
+    Pelayanan saji di kios Cecil, memang paling cepat di kota itu. Cecil Cuma mengembuskan napas panas ke adonan yang sudah disiapkan.
+    Dengan satu hembusan napas, sepuluh sosis, empat hamburger, dan dua paha ayam langsung matang! </p>
+        \n <br />
+
+    <p> Usaha Cecil berkembang pesat. Dalam waktu singkat ia berhasil mendapat banyak pelanggan. Dan tentu saja, mendapat banyak untung juga.
+        Rumah pondok kedua orang tuanya dibangun kembali. Papa dan Mama merasa lega. Wajah Papa menjadi normal, berwama kehijauan.
+        Tak habis-habisnya Mama menciumi pipi anak kesayangannya. </p>
+        \n <br/>
+    </string>
+
+    <string name="judul_kunang">Selimut Kunang-Kunang</string>
+    <string name="isi_kunang">
+        <p> Rus, anak laki-laki berumur delapan tahun yang nakal, sangat jahil dan banyak tingkah.
+        Ada-ada saja ulahnya yang membuat orang-orang berteriak marah, atau jengkel. </p>
+
+        \n
+        <p> \n Namun hari ini Rus sangat heran. Karena tidak ada seorang pun yang mempedulikan kebandelannya.
+            Padahal dia baru saja mencat anak sapi milik Pak Todi dengan warna hijau.
+            Tapi Pak Todi diam saja dengan wajah murung. Tidak membentak Rus. </p>
+
+        \n
+        <p> Ketika Rus main perahu-perahuan dengan sandal Bu llya yang besar, wanita gemuk itu juga tidak memarahi Rus.
+            Bu llya hanya melirik Rus dengan raut wajah sedih. </p>
+
+        \n
+        <p>
+        \"Ada apa, ya? Kenapa orang-orang terlihat murung dan sedih?\" Rus bingung.
+
+        \n Akhirnya Rus bosan berbuat nakal dan jahil karena tidak ada yang mempedulikanya. Rus jadi penasaran.
+
+        \n \"Apa yang terjadi, Pak Koko? Kenapa orang-orang terlihat sedih?\" tanya Rus pada Pak Koko, Tukang Pedati.
+        \n \"Ya, orang-orang di seluruh negeri sedang berduka. Puteri Marya telah diculik Raja Penyihir Umbu. Tidak ada yang dapat membebaskan Puteri Marya.
+        Raja Penyihir Umbu tidak terkalahkan. Pasukan kerajaan yang diutus Raja belum kembali juga,\" jelas Pak Koko sedih. </p>
+
+        \n
+        <p> \n Rus terdiam sebentar. Rus tahu Puteri Marya sangat disayangi rakyat seluruh negeri.
+            Puteri Marya sangat cantik jelita dan baik hati. Rus menjadi marah kepada Raja Penyihir Umbu. </p>
+
+        \n \"Aku akan membebaskan Puteri Marya. Jangan khawatir!\" ucap Rus yakin.
+        Pak Koko malah tertawa, meremehkan Rus.
+        \n \"Anak nakal seperti kamu, apa yang dapat kamu lakukan?\" tanya Pak Koko.
+        \n \“Nanti aku pikirkan. Aku akan membebaskan Puteri Marya!\" Orang-orang yang mendengar ucapan Rus hanya mendengus kesal.
+
+        \n
+        <p> \n Para ksatria kerajaan saja tidak bisa membebaskan Puteri Marya. Apalagi Rus. Anak kecil yang suka jahil dan berbuat nakal.
+        Namun tidak ada yang tahu, diamdiam Rus menemui Lilip, peri kunangkunang, sahabatnya.
+        Lilip pernah diselamatkan Rus ketika terjerat sarang laba-laba raksasa. Seluruh tubuh Lilip berwarna kuning kehijauan.
+            Bila malam, seluruh tubuh Lilip bercahaya berkerlip-kerlip. </p>
+
+
+        \n \"Aku ingin membebaskan Puteri Marya. Tapi aku tidak tahu di mana tempat persembunyian Raja Penyihir Umbu,\" keluh Rus murung.
+        \n \"Aku tahu. Istana Pualam Raja Penyihir Umbu ada di Lembah Bunga Seribu Warna,\" kata Lilip dengan mata berbinar.
+        \n \"Bagaimana kamu tahu?\" Tanya Rus.
+        \n \"Aku sudah menanyakannya pada Tabib Tenung. Puteri Marya disekap di Menara Kaca yang tingginya sampai ke awan.\"
+      \n \"Bagaimana caranya kita dapat ke sana?\" tanya Rus putus asa.
+       \n \"Aku akan meminjam Selimut Kunang-kunang pada Ratu Cahaya Damai!\" kata Lilip mantap. Ratu Cahaya Damai adalah ratu para peri kunang-kunang.
+
+        <p> \n Malam harinya, Rus berjanji untuk bertemu Lilip lagi. Tak lama kemudian Lilip datang membawa sebuah selimut aneh yang berwarna kusam.
+            Temyata selimut itu disulam dari ribuan sayap kunang-kunang. </p>
+
+        \n \"Aku tidak jadi meminjamnya dari Ratu. Ratu tak akan mengizinkannya. Aku terpaksa mengambilnya ketika Peri Kunang Penjahit sedang lengah.
+        Ada bagian yang sobek pada selimut ini,\" jelas Lilip.
+        \n \"Terima kasih, Lilip. Kamu mau membantu aku,\" kata Rus.
+       \n \"Kita harus saling membantu. Kau kan pernah menyelamatkan aku. Ayo, tutupi tubuhmu dengan selimut kunang-kunang ini.
+        Kita harus segera membebaskan Puteri Marya!\"
+
+        \n
+        <p>
+        \n Rus menuruti kata-kata Lilip. Dia menutupi tubuhnya dengan selimut kunang-kunang.
+        Tiba-tiba ribuan cahaya berkerlap-kerlip menyelubungi tubuh Rus. Rus berubah menjadi cahaya.
+        Kemudian melesat ke langittinggi. Menuju Menara Kaca tempat Puteri Marya disekap. Lilip sebagai penunjuk jalannya.
+        Kemudian mereka sampai di Menara Kaca. Puteri Marya terkejut dengan kedatangan mereka.
+        Rus membuka Selimut Kunang-Kunang yang menyelubunginya. Selimut itu berubah menjadi selimut biasa kembali. </p>
+
+        \n
+        \n \"Puteri Marya, aku Rus, kita harus segera meninggalkan tempat ini,\" seru Rus.
+        \n \"Tapi bagaimana dengan tawanan yang lain?\" tanya Puteri Marya.
+        \n \"Mereka telah disihir menjadi bungabunga yang memenuhi seluruh Lembah Bunga Seribu Warna. Aku pun akan disihir menjadi Bunga emas!\"
+
+        \n \“Kalian tidak akan bisa meninggalkan tempat ini!\" tiba-tiba Raja Penyihir Umbu datang dengan suara marah.
+        <p> \n Wajahnya yang tampan menjadi merah. Dia bersiap menyihir Rus.
+        Tiba-tiba Lilip melihat kalung bola kristal menyembul di dada Raja Penyihir Umbu.
+            Lilip segera menyambar bola kristal itu dan membantingnya sampai pecah. Itu adalah kelemahan Raja Penyihir Umbu. </p>
+
+        \n
+        <p> \n Rus segera menyelubungi tubuhnya dan Puteri Marya dengan Selimut Kunang-kunang.
+        Tubuh mereka berubah menjadi cahaya. Tapi Raja Penyihir Umbu berhasil menarik ujung Selimut Kunang-kunang.
+        Rus menyentaknya. Krreekk! Terdengar bunyi sobek. Tapi Rus berhasil lepas dan melesat ke langit bebas bersama Puteri Marya.
+        Sihir Raja Penyihir Umbu punah. Dia tidak berdaya lagi. Orang-orang yang disihimya menjadi bunga berubah kembali menjadi manusia.
+            Penduduk negeri menyambut gembira kembalinya Puteri Marya. Raja mengadakan pesta untuk Rus dan Lilip. </p>
+
+        \n
+        \n \"Anak nakal, kalian harus tetap mendapat hukuman dariku. Mengambil selimut kunang-kunang tanpa izin.
+        Kalian harus membantuku menambal pakaian dan memasang kancing selama sebulan penuh!\" omel Peri Kunang Penjahit.
+        \n Rus dan Lilip hanya bisa tersenyum kecut. Hmm, dengan sibuk bekerja, mudah-mudahan Rus tidak sempat berbuat jahil lagi.
+
+    </string>
+
+    <string name="judul_alju">Alju</string>
+    <string name="isi_alju">
+       <p>
+        \n Alju adalah seekor anak domba kecil. Bulunya seputih salju. Ia suka sekali bermain di padang rumput.
+        Setiap kali ia bermain, ibunya akan mengawasinya sambil merumput di padang rumput itu.
+           Di padang rumput, ada tiga kegiatan yang disukai Alju. Mengejar kupu-kupu, menangkap burung, atau mengenduskan hidungnya ke kelopak-kelopak bunga musim panas.</p>
+
+        \n
+        <p>
+        \n Pada saat bermain sendirian, Alju kadang berharap bisa hidup bebas. Kadang, ia tak ingin diawasi oleh ibunya.
+        Ia ingin sendirian berlari ke hutan. Ia ingin tahu keadaan di hutan. Apakah ada tempat-temat ajaib di tengah hujan lebat?
+        \n \“Sayang…, Ibu pasti tidak akan mengijinkan aku bermain ke hutan,\” keluh Alju. Baru saja ia mengangkat wajahnya, tiba-tiba,
+        \n\“Alju, kembali ke sini! Jangan dekat-dekat pagar pembatas!\”
+            \n Alju menoleh ke arah ibunya yang melihatnya dengan khawatir.
+            \n \“Tuh, kan…\” gumamnya kesal.</p>
+        \n
+        <p>
+        \n Suatu pagi, seperti biasa Alju bermain di padang rumput. Saat ia sedang mengendus-endus bunga, tiba-tiba ia melihat sesuatu yang bergerak-gerak di antara dedaunan pohon di hutan.
+        \n \“Ada apa di balik pohon-pohon hijau lebat di hutan itu? Apakah ada hewan-hewan misterius di sana? Seperti apa bentuk mereka?\”
+        Alju mengendus-endus melalui celah di pagar pembatas. Ia bisa mencium aroma buah-buah pohon pinus.</p>
+
+        \n
+        \n Tiba-tiba, \“Alju, kembali ke sini! Jangan dekat-dekat pagar pembatas!\” terdengar teriakan ibu Alju, seperti biasa kalau Alju mendekat ke pagar.
+        Alju menghembus napas kecewa. Ia melangkah lunglai mendekat ke ibunya lagi. Namun di dalam hati, Alju merencanakan petualangan besar di hutan suatu hari nanti.
+
+        \n
+        <p> \n Musim pun berganti musim. Kini musim gugur tiba lagi. Dedaunan kuning dan jingga berjatuhan dari pohon-pohon besar di hutan.
+        Sekarang tubuh Alju sudah lebih besar. Ia menatap kagum pada daun-daun yang berguguran di tepi hutan. Alju hanya bisa melihatnya dari balik pagar pembatas.
+            \“Aku sudah lebih besar sekarang. Oh, andai saja Ibu mengijinkan aku pergi.\" </p>
+
+        \n <p>
+        \n \"Aku ingin melihat banyak hal. Aku ingin punya petualangan seru. Sayang, Ibu selalu melarang…\” gumam Alju.
+        Walau Alju merasa sudah besar, namun ibunya masih belum mengijinkan ia pergi ke hutan sendirian. </p>
+
+        \n
+        <p> \n Suatu malam, Alju menyelinap nyaman di antara bulu-bulu hangat ibunya. Ia menutup matanya dan membayangkan petualangannya di hutan besar.
+            Alju berencana untuk menyusup dari bawah pagar pembatas. Di saat ibunya sarapan rumput segar, ia akan berlari secepatnya masuk ke dalam hutan. </p>
+
+        \n
+        <p> \n
+        Pagi hari pun tiba. Alju memberanikan diri lari dan masuk ke dalam hutan. Suasana di dalam hutan, betul-betul membuat Alju berdebar.
+        Ia melihat jamur-jamur putih berhamparan di bawah pohon. Alju melompat-lompat di antara jamur-jamur itu.
+        Ia juga mencoba meluncur di lumut hijau tebal yang licin.
+        Tak jauh dari tempat itu, Alju melihat beberapa seekor hewan berbulu putih dengan ekor bulat. Ia juga melihat hewan kecil berduri halus.
+        Tubuhnya kadang bergelung seperti bola duri. Mereka berguling-guling di daun-daun kering yang berserakan di tanah hutan.
+        Alju berkenalan dengan mereka. Ia baru tahu, kalau mereka adalah kelinci dan hedgehog. Mereka mengajak Alju ikut berguling-guling di dedaunan kering itu.
+        \n \“Asiiik… \“ seru Alju girang. </p>
+
+        \n <p>
+        \n Ketika senja tiba, Alju mulai kelelahan. Ia beristirahat di bawah pohon. Kelinci tadi berlari pulang dan meninggalkan Alju.
+        Hedgehoge lucu tadi juga pamitan untuk masuk kembali ke sarangnya. Alju kini sendirian. Ia mulai merasa dingin dan lapar.
+        \n \“Ternyata, bebas itu tidak enak juga. Aku mengantuk. Aku ingin tidur di antara bulu-bulu Ibu yang hangat,\” gumam Alju dengan mata berkaca-kaca.</p>
+
+        \n
+        <p> \n
+        Kini, ia harus menemukan jalan pulang ke padang rumput hijau. Namun kini berada di antara semak-semak tinggi.
+        Ia melihat ke sekeliling, dan tidak tahu berada di mana. Di hutan, semua pohon tampak sama. Ia tak tahu harus melangkah ke kiri atau kanan.
+        Ke depan, atau ke belakang. </p>
+
+        \n
+        \n
+        \“Baaa… baaa… Ibuuu, Ibu dimana? Bu, tolong jemput aku. Baaa… Baaa…\” Alju mulai mengembik memanggil ibunya.
+        \n Alju berjalan tak tentu arah dan mengendus-endus. Tiba-tiba, ia melihat sepasang sepatu but di depannya.
+        Lalu terdengar suara keras,
+
+        \n
+        \n \“Hei, ada domba asing! Dari mana kamu? Berani-beraninya masuk ke hutanku!\”
+        \n Alju mendongak. Di depannya, berdiri raksasa seram. Rupanya ia pemilik hutan itu.
+        \n \“Maafkan aku, Tuan Raksasa. Hutanmu sangat indah. Aku tidak tahan ingin bermain ke sini…\” kata Alju gemetaran takut.
+        \n \“Aku akan menghukummu. Aku akan lempar kamu ke awan!\” teriak raksasa itu. Ia lalu menggembungkan pipinya dan meniup Alju sekuat tenaga.
+        \n \“FUUUH…\”
+
+        \n
+        <p> \n Alju sangat terkejut ketika tubuhnya melayang tinggi ke angkasa. Tak lama kemudian, ia sudah berada di langit biru.
+        Tubuhnya tertiup angin sampai ke atas padang rumput. Ia sangat kesepian dan tidak bahagia. Alju menengok ke bawah.
+        Ia melihat ibunya yang cantik sangat jauh di bawah sana.
+            \n \“Ibuuu…\” teriak Alju memanggil ibunya. Namun, ibunya tak bisa mendengar suaranya. </p>
+
+        \n <p> \n
+        Alju si domba kecil menangis sedih. Ia menangis dan terus menangis. Karena ia terus menangis, bulu-bulunya makin lama makin menciut.
+        Tubuhnya kini menjadi sangat kecil, dan kecil, dan kecil… </p>
+
+        \n <p> \n
+        Tiba tiba, tubuh Alju tersentak. Ia terbangun dari mimpi buruknya. Ternyata, ia masih berada di pelukan ibunya yang hangat.
+        Hari masih malam. Oh, Alju menghembuskan napas lega. Matanya lalu menjadi berat lagi dan ia tertidur nyenyak lagi. Di dalam tidur, ia mengigau…
+        \n
+        \n \“Awan di langit, rumput di bumi. Aku Iebih suka menjadi anak domba, di dalam pelukan Ibu…\”
+        Ibunya tersenyum mendengar igauan Alju. </p>
+    </string>
+
+    <string name="little_match">The Little Match Girl</string>
+    <string name="story_match">
+        <p>
+        It was so terribly cold. Snow was falling, and it was almost dark.
+        Evening came on, the last evening of the year. In the cold and gloom a poor little girl, bareheaded and barefoot,
+        was walking through the streets. Of course when she had left her house she would had slippers on,
+        but what good had they been? They were very big slippers, way too big for her,
+        for they belonged to her mother. The little girl had lost them running across the road,
+        where two carriages had rattled by terribly fast. One slipper she would not been able to find again,
+        and a boy had run off with the other, saying he could use it very well as a cradle someday
+        when he had children of his own. And so the little girl walked on her naked feet,
+        which were quite red and blue with the cold. In an old apron she carried several packages of matches,
+        and she held a box of them in her hand. No one had bought any from her all day long, and no one had given her a cent.</p>
+
+        \n
+        <p> \n Shivering with cold and hunger, she crept along, a picture of misery, poor little girl! The snowflakes fell
+        on her long fair hair, which hung in pretty curls over her neck. In all the windows lights were shining,
+            and there was a wonderful smell of roast goose, for it was New Year is eve. Yes, she thought of that! </p>
+        \n
+        <p> \n
+        In a corner formed by two houses, one of which projected farther out into the street than the other,
+        she sat down and drew up her little feet under her. She was getting colder and colder, but did not dare to go home,
+        for she had sold no matches, nor earned a single cent, and her father would surely beat her.
+        Besides, it was cold at home, for they had nothing over them but a roof through which the wind whistled
+        even though the biggest cracks had been stuffed with straw and rags. </p>
+
+        \n
+        <p> \n
+        Her hands were almost dead with cold. Oh, how much one little match might warm her!
+        If she could only take one from the box and rub it against the wall and warm her hands.
+        She drew one out. R-r-ratch! How it sputtered and burned! It made a warm, bright flame, like a little candle,
+        as she held her hands over it, but it gave a strange light! It really seemed to the little girl as if she
+        were sitting before a great iron stove with shining brass knobs and a brass cover. How wonderfully the
+        fire burned! How comfortable it was! The youngster stretched out her feet to warm them too; then the
+        little flame went out, the stove vanished, and she had only the remains of the burnt match in her hand. </p>
+
+        \n
+        <p> \n
+        She struck another match against the wall. It burned brightly, and when the light fell upon the wall it became
+        transparent like a thin veil, and she could see through it into a room. On the table a snow-white cloth was spread,
+        and on it stood a shining dinner service. The roast goose steamed gloriously, stuffed with apples and prunes.
+        And what was still better, the goose jumped down from the dish and waddled along the floor with a knife and fork in its breast,
+        right over to the little girl. Then the match went out, and she could see only the thick, cold wall. She lighted another match.
+        Then she was sitting under the most beautiful Christmas tree. It was much larger and much more beautiful than the one she had
+        seen last Christmas through the glass door at the rich merchant is home. Thousands of candles burned on the green branches,
+        and colored pictures like those in the printshops looked down at her. The little girl reached both her hands toward them.
+        Then the match went out. But the Christmas lights mounted higher. She saw them now as bright stars in the sky. One of them fell down,
+        forming a long line of fire. </p>
+
+        \n
+        \n \"Now someone is dying,\" thought the little girl, for her old grandmother, the only person who had loved her,
+        and who was now dead, had told her that when a star fell down a soul went up to God.
+
+        \n
+        \n She rubbed another match against the wall. It became bright again, and in the glow the old grandmother stood
+        clear and shining, kind and lovely.
+
+        \n
+        \n \"Grandmother!\" cried the child.
+        \n \"Oh, take me with you! I know you will disappear when the match is burned out.
+        You will vanish like the warm stove, the wonderful roast goose and the beautiful big Christmas tree!\"
+
+        \n <p>
+        \n And she quickly struck the whole bundle of matches, for she wished to keep her grandmother with her.
+        And the matches burned with such a glow that it became brighter than daylight. Grandmother had never
+        been so grand and beautiful. She took the little girl in her arms, and both of them flew in brightness
+        and joy above the earth, very, very high, and up there was neither cold, nor hunger, nor fear-they were with God.</p>
+
+        \n <p> \n
+        But in the corner, leaning against the wall, sat the little girl with red cheeks and smiling mouth, frozen to
+        death on the last evening of the old year. The New Year is sun rose upon a little pathetic figure. The child sat there,
+        stiff and cold, holding the matches, of which one bundle was almost burned. </p>
+
+        \n <p> \n
+        \"She wanted to warm herself,\" the people said. No one imagined what beautiful things she had seen,
+        and how happily she had gone with her old grandmother into the bright New Year. </p>
+    </string>
+
+    <string name="the_twelve">The Twelve Dancing Princesses</string>
+    <string name="isi_twelve">
+        <p> There was a king who had twelve beautiful daughters. They slept in twelve beds all in one room.
+            and when they went to bed, the doors were shut and locked up.
+            but every morning their shoes were found to be quite worn through as if they had been danced in all night.
+            and yet nobody could find out how it happened, or where they had been. </p>
+        \n
+        \n
+        Then the king made it known to all the land, that if any person could discover the secret after three days and night,
+        and find out where it was that the princesses danced in the night, he should have the one he liked best for his wife,
+        and should be king after his death.
+
+        \n
+        \n Many people came to try their luck, but they had all the same luck, they failed to find the secret.
+
+        \n \n
+        Now it chanced that an old soldier, who had been wounded in battle and could fight no longer,
+        passed through the country where this king reigned: and as he was travelling through a wood,
+        he met an old woman, who asked him where he was going.
+
+        \n \n
+        \"I hardly know where I am going, or what I had better do,\" said the soldier.
+        \"but I think I should like very well to find out where it is that the princesses dance, and then in time I might be a king.\"
+        \"Well,\" said the old dame,
+        \"that is no very hard task: only take care not to drink any of the wine which one of the princesses
+        will bring to you in the evening; and as soon as she leaves you pretend to be fast asleep.\"
+
+\n \n Then she gave him a cloak, and said,
+\"As soon as you put that on you will become invisible,
+and you will then be able to follow the princesses wherever they go.\"
+
+\n \n When the soldier heard all this good counsel,
+he determined to try his luck, so he went to the king, and said he was willing to undertake the task.
+
+\n \n He was as well received as the others had been,
+and the king ordered fine royal robes to be given him;
+and when the evening came he was led to the outer chamber.
+Just as he was going to lie down, the eldest of the princesses brought him a cup of wine;
+but the soldier threw it all away secretly, taking care not to drink a drop.
+Then he laid himself down on his bed, and in a little while began
+to snore very loud as if he was fast asleep.
+
+\n \n When the twelve princesses heard this they laughed heartily,
+\n and the eldest said, \"This fellow too might have done a wiser thing than lose his life in this way!\"
+\n Then they rose up and opened their drawers and boxes, and took out all their fine clothes,
+and dressed themselves at the glass, and skipped about as if they were eager to begin dancing.
+
+        \n \n
+        But the youngest said, \n \"I don\'t know how it is, while you are so happy I feel very uneasy, I am sure some mischance will befall us.\"
+        \n \"You simpleton,\" said the eldest,
+        \n \"You are always afraid, have you forgotten how many kings\'s sons have already watched in vain?
+        And as for this soldier, even if I had not given him his sleeping draught, he would have slept soundly enough.\"
+
+        \n \n
+        When they were all ready, they went and looked at the soldier,
+        but he snored on, and did not stir hand or foot, so they thought they were quite safe,
+        and the eldest went up to her own bed and clapped her hands,
+        and the bed sank into the floor and a trap-door flew open.
+
+        \n \n The soldier saw them going down through the trap-door one after another, the eldest leading the way
+        and thinking he had no time to lose, he jumped up, put on the cloak which the old woman had given him, and followed them;
+        but in the middle of the stairs he trod on the gown of the youngest princess,
+        and she cried out to her sisters, \"All is not right; someone took hold of my gown.\"
+        \n \"You silly creature!\" said the eldest,
+        \n \"it is nothing but a nail in the wall.\"
+\n \n
+Then down they all went, and at the bottom they found themselves in a most delightful grove of trees;
+and the leaves were all of silver, and glittered and sparkled beautifully.
+The soldier wished to take away some token of the place, so he broke off a little branch,
+and there came a loud noise from the tree.
+\n \n
+Then the youngest daughter said again, \"I am sure all is not right—did not you hear that noise?
+That never happened before.\"
+\n But the eldest said, \"It is only our princes, who are shouting for joy at our approach.\"
+\n \n
+Then they came to another grove of trees,
+where all the leaves were of gold; and afterwards to a third,
+where the leaves were all glittering diamonds. And the soldier broke a branch from each;
+and every time there was a loud noise, which made the youngest sister tremble with fear;
+but the eldest still said, it was only the princes, who were crying for joy.
+\n \n
+So they went on till they came to a great lake;
+and at the side of the lake there lay twelve little boats with twelve handsome princes in them,
+who seemed to be waiting there for the princesses.
+\n \n
+One of the princesses went into each boat, and the soldier stepped into
+the same boat with the youngest. As they were rowing over the lake,
+the prince who was in the boat with the youngest princess
+and the soldier said,
+        \n \"I do not know why it is, but though I am rowing with all
+        my might we do not get on so fast as usual, and I am quite tired: the boat seems very heavy today.\"
+
+\n \"It is only the heat of the weather,\" said the princess.
+\n \"I feel it very warm too.\"
+
+\n \n On the other side of the lake stood a fine illuminated castle,
+from which came the merry music of horns and trumpets. There they all landed,
+and went into the castle, and each prince danced with his princess; and the soldier,
+who was all the time invisible, danced with them too.
+
+\n \n and when any of the princesses had a cup of wine set by her, he drank it all up,
+so that when she put the cup to her mouth it was empty. At this, too, the youngest sister was terribly frightened,
+but the eldest always silenced her. They danced on till three o\'clock in the morning,
+and then all their shoes were worn out, so that they were obliged to leave off.
+
+\n \n The princes rowed them back again over the lake (but this time the soldier placed himself
+in the boat with the eldest princess) and on the opposite shore they took leave of each other,
+the princesses promising to come again the next night.
+
+\n \n When they came to the stairs, the soldier ran on before the princesses,
+and laid himself down; and as the twelve sisters slowly came up very much tired,
+they heard him snoring in his bed;
+so they said, \n \"Now all is quite safe\"
+\n then they undressed themselves, put away their fine clothes,
+pulled off their shoes, and went to bed.
+
+\n \n In the morning the soldier said nothing about what had happened,
+but determined to see more of this strange adventure, and went again
+the second and third night; and every thing happened just as before.
+
+\n \n The princesses danced each time till their shoes were worn to pieces, and then returned home.
+However, on the third night the soldier carried away one of the golden cups as a token of where he had been.
+
+\n \n As soon as the time came when he was to declare the secret,
+he was taken before the king with the three branches and the golden cup
+and the twelve princesses stood listening behind the door to hear what he would say.
+
+\n \n And when the king asked him. \n \"Where do my twelve daughters dance at night?\"
+        \n he answered, \"With twelve princes in a castle under ground.\"
+
+\n \n And then he told the king all that had happened, and
+showed him the three branches and the golden cup which he had brought with him.
+Then the king called for the princesses, and asked them whether what
+the soldier said was true: and when they saw that they were discovered,
+
+\n \n And that it was of no use to deny what had happened, they confessed it all.
+And the king asked the soldier which of them he would choose for his wife,
+\n and he answered, \"I am not very young, so I will have the eldest.\"
+
+\n And they were married that very day, and the soldier was chosen to be the king\'s heir.
+    </string>
+
+    <string name="rumplestiltskin">Rumplestiltskin</string>
+    <string name="isi_rumplestiltskin">
+        There was once a miller who was poor, but he had a beautiful daughter.
+        Now it so happened that he came to speak with the king, and to make himself seem important he said to him:
+        \n \"I have a daughter who can spin straw into gold.\"
+        \n The king said to the miller: \"That\'s an art much to my liking, if your daughter is as skilful as you say,
+        bring her to my palace tomorrow and I will put her to the test.\"
+
+        \n \n Now when the girl was brought to him he led her into a room that was filled up with straw,gave her spinning-wheel and reel, and declared:
+        \n \"Set to work at once, and if by morning you haven\'t
+        spun this straw into gold, you shall die.\"
+        \n Then he locked the room himself, and she was left there alone.
+
+        \n The poor miller\'s daughter sat there, and for the life of her she didn\'t know what to do. She had no idea how you could spin straw into gold, and she grew more and more afraid, so that in the end she began to cry. Then all at once the door opened and a little manikin stepped inside, saying:
+        \n \"Good evening, Miss Miller, why are you crying so much?\"
+        \n \"Oh dear,\" replied the girl,
+        \n \"I\'m supposed to spin straw into gold, and I don\'t know how to do it.\"
+
+        \n Said the little man:
+        \n \"What will you give me if I spin it for you?\"
+        \n \"My necklace,\" said the girl.
+
+        \n \n The little man took the necklace, sat down at the wheel,
+        and whirr, whirr, whirr, three times the thread was drawn – and the bobbin was full.
+        Then he put on another, and whirr, whirr, whirr, three times the thread was drawn – and the second one was full.
+        And so it went on until morning, and there was all the straw spun and all the bobbins were full of gold.
+
+        \n \n As soon as the sun rose the king came, and when he saw the gold he was astonished and delighted,
+        but his heart grew still more gluttonous for gold. He had the miller\'s daughter taken to another room
+        full of straw – one that was much bigger – and he commanded her to spin that overnight as well, if her life was dear to her.
+
+        \n \n The girl didn\'t know what to do and began to cry. Then the door opened again and the little manikin appeared, saying:
+        \n \"What will you give me if I spin the straw into gold for you?\"
+        \n \"The ring on my finger,\" answered the girl.
+
+        \n \n The little man took the ring, began whirring again with the wheel, and by morning he had spun all
+        the straw into shining gold. The king was delighted beyond bounds by the sight; but he still did not have
+        his fill of gold, but had the miller\'s daughter taken to an even bigger room full of straw.
+
+        \n \n And he said:
+        \n \"You must spin this yet again tonight, but if you get it done, you shall become my consort.\"
+
+        \n Even if she is a miller\'s daughter, he thought, I shan\'t find a richer wife in the whole world.
+        When the girl was alone the little man came again for the third time,
+        \n saying: \n \"What will you give me if I spin the straw for you this time too?\"
+        \n \"I have nothing more I can give you,\" answered the girl.
+        \n \"Then promise me, when you are queen, your first child.\"
+        \n \"Who knows how things will turn out?\" thought the miller\'s daughter,
+        and in her distress she had no idea what else she could do. So she promised the little man what he desired,
+        and in return the little man once again spun the straw into gold.
+
+        \n \n And when the king came in the morning and found everything as he had wished it,
+        he celebrated his wedding with her, and the beautiful miller\'s daughter became a queen.
+
+        \n \n A year later she brought a beautiful child into the world, and she no longer gave a
+        thought to the little man. Then suddenly he stepped into her chamber,
+        \n saying: \n \"Now give me what you promised.\"
+        \n The queen was stricken with fear, and offered the little man all the riches
+        of the kingdom if he would leave her child with her.
+        \n But the little man said: \n \"No, I would rather have a living creature than all the treasure in the world.\"
+        \n Then the queen began to weep and wail so sorrowfully that the little man
+        took pity on her.
+        \n \"I\'ll give you three days," he declared,
+        \n \"and if by that time you know what my name is, you shall keep your child.\"
+
+        \n \n All night long the queen called to mind all the names she had ever heard,
+        and she sent a messenger far and wide throughout the land to find out what other names there might be.
+        The next day, when the little man came, she began with Kaspar, Melchior, Balzar, a
+        nd listed all the names she knew, one after another, but at each one
+        \n the little man declared: \n \"That\'s not what I\'m called.\"
+
+        \n \n The second day she inquired all round the neighbourhood to find out what names
+        people were called there, and recited the strangest and most peculiar names to the little man.
+        \n \"Are you called Skinnyribs perhaps, or Sheepshanks, or Pegleg?\"
+
+        \n But each time he answered: \n \"No, I\'m not.\" On the third day the messenger came back and told her,
+        \"I couldn\'t find out a single new name, but as I came upon a high mountain
+        round the forest corner by the back of beyond, I saw a little house,
+        and in front of the house a fire was burning, and over the fire the funniest little
+        man was leaping and hopping on one leg and crying:
+
+\'Today I\'ll bake, tomorrow I\'ll brew,
+
+The next I\'ll fetch the queen\'s new child;
+
+Still no one knows it just the same,
+
+That Rumpelstiltskin is my name.\'\"
+
+\n You can imagine how glad the queen was when she heard the name,
+        and when soon afterwards the little man stepped in and asked:
+        \n \"Well, Lady Queen, what\'s my name?\"
+        \n  She asked first of all: \n \"Is you name Tom?\"
+        \n \"No.\"
+        \n \"Is your name Ron?\"
+        \n \"No.\"
+
+        \n \"Might your name perhaps be Rumpelstiltskin?\"
+        \n \"The devil told you, the devil told you,\" shrieked the little man and in his anger he stamped his right foot so deep into the earth that he sank down as far as his waist,
+        then he seized his left foot with both hands in a rage, and tore himself right down the middle into two.
+
+    </string>
+
+    <string name="the_elves">The Elves And The Shoemaker</string>
+    <string name="isi_elves">
+        <p> There was once a shoemaker who, through no fault of his own, had become so poor that at last he had
+        only leather enough left for one pair of shoes. At evening he cut out the shoes which he intended to
+            begin upon the next morning, and since he had a good conscience, he lay down quietly, said his prayers, and fell asleep. </p>
+
+        \n
+        <p> \n In the morning when he had prayed, as usual, and was preparing to sit down to work, he found the pair of shoes
+        standing finished on his table. He was amazed, and could not understand it in the least.
+        He took the shoes in his hand to examine them more closely. They were so neatly sewn that not a stitch was out of place,
+            and were as good as the work of a master-hand. </p>
+
+        \n
+        <p> \n Soon after a purchaser came in, and as he was much pleased with the shoes, he paid more than the ordinary price for them,
+        so that the shoemaker was able to buy leather for two pairs with the money.
+        He cut them out in the evening, and next day, with fresh courage was about to go to work, but he had no need to,
+        for when he got up, the shoes were finished, and buyers were not lacking. These gave him so much money that he was
+            able to buy leather for four pairs of shoes. </p>
+        \n
+        <p> \n
+        Early next morning he found the four pairs finished, and so it went on; what he cut out at evening was finished in the morning,
+        so that he was soon again in comfortable circumstances, and became a well-to-do man.
+        Now it happened one evening, not long before Christmas, when he had cut out shoes as usual,
+        that he said to his wife: \n \“How would it be if we were to sit up to-night to see who it is that lends us such a helping hand?\”
+        The wife agreed, lighted a candle, and they hid themselves in the corner of the room behind the clothes which were hanging there. </p>
+
+        \n
+        <p> \n
+        At midnight came two little naked men, who sat down at the shoemaker’s table, took up the cut-out work,
+        and began with their tiny fingers to stitch, sew, and hammer so neatly and quickly, that the shoemaker
+        could not believe his eyes. They did not stop till everything was quite finished, and stood complete on
+        the table, then they ran swiftly away. </p>
+
+        \n
+        \n
+        The next day the wife said: \n \“The little men have made us rich, and we ought to show our gratitude.
+        They run about with nothing on, and must freeze with cold. Now I will make them little shirts,
+        coats, waistcoats, and hose, and will even knit them stout stockings, and you shall make them each a pair of shoes.\”
+        The husband agreed, and at evening, when they had everything ready, they laid out the presents on the table,
+        and hid themselves to see how the little men would behave.
+
+        \n <p> \n
+        At midnight they came skipping in, and were about to set to work, but, instead of the leather ready cut out,
+        they found the charming little clothes.
+        At first they were surprised, then excessively delighted. With the greatest speed they put
+        on and smoothed down the pretty clothes, singing:
+
+        \n \“Now we’re dressed so fine and neat,
+        Why cobble more for others’ feet?\” </p>
+
+        \n \n
+        Then they hopped and danced about, and leaped over chairs and tables and out at the door.
+        Henceforward, they came back no more, but the shoemaker fared well as long as he lived, and had good luck in all his undertakings.
+    </string>
+
+    <string name="hensel_and_gretel">Hensel And Gretel</string>
+    <string name="isi_hng">
+       <p> A poor woodcutter and his wife had two children named Hansel and Gretel. Their mother died when they were young. Hansel and Gretel were very sad.
+           Soon their father remarried but their stepmother was very cruel. </p>
+
+        \n
+        <p> \n One day, she took the children deep into the forest and left them there.
+        Clever Hansel had some breadcrumbs in his pocket and had dropped them on the way so that they could find their way back home.
+            Alas! The birds ate all the crumbs and they couldn\’t find the path that led back home. </p>
+        \n
+        <p> \n Hansel and Gretel went deeper and deeper into the forest. They were hungry and tired.
+        Finally, after walking for a long time, they saw a cottage made of chocolate, candies, and cake.
+            \n \“Look, Hansel! A chocolate brick!\” shouted
+        \n Gretel in delight and both ate it hungrily. </p>
+
+        \n
+        <p> \n Now, a wicked witch lived there. When she saw Hansel and Gretel, she wanted to eat them.
+            She grabbed the children and locked them in a cage. The witch decided to make a soup out of Hansel and eat him first.
+            She began boiling a huge pot of water for the soup. Just then, Gretel crept out of her cage.
+            She gave the wicked witch a mighty push from behind and the witch fell into the boiling water.
+            She howled in pain and died instantly. </p>
+
+        \n
+        <p> \n Gretel ran to set her brother free as fast as she could, opened the cage, and cried,
+        \n \"Hansel, we are saved! The old witch is dead!\" Hansel sprang out like a bird from its cage when the door is opened.
+        How they did rejoice, and trow their arms around each other\'s necks,
+        and dance around and kiss each other! Since there wasn\'t anything to fear, they went inside the witch\'s house.
+        They ate some more of the house, until they discovered among the witch\'s belongings, a huge chocolate egg.
+        Inside lay a casket of gold coins and precious stones.
+        \n \"These are better than pebbles\" said Hansel, and stuck as many in his pocket as he could.
+            \n \"The witch is now burnt to a cinder,\" said Hansel,
+            \n \"so we\'ll take this treasure with us.\" </p>
+
+        \n <p>
+        \n They filled a large basket with food, stuffed the precious stones and coins in their pockets,
+        and set off into the forest to search for the way home. </p>
+
+        \n <p>
+        \n
+        This time, luck was with them. A little white duck came to their aid as they tried to cross a wide lake.
+        The little white duck carried them, one by one, safely, to the other side.
+        Pretty soon they came to a wood that kept looking more and more familiar, and at last in the distance they saw their father\'s house.
+         </p>
+
+        \n
+        <p>
+            \n They started to run, burst into the living room, and threw themselves on their father\'s neck.
+            Since he had left the children in the forest, he had not had a single happy hour.
+            Their father said, weeping,
+            \n \"Your stepmother is dead. You are with me now, my dear children!\"
+        The two children hugged the woodcutter. Gretel shook out her apron, and pearls and precious stones rolled all over the room, and Hansel threw down out of his pocket one handful after another.
+            \n \"Look, Father! We\'re rich now . . . You\'ll never have to chop wood again and we\'ll never be hungry again.\" And they all lived happily together ever after. </p>
+    </string>
+
+    <string name="the_snail">The Snail And The Rose-Tree</string>
+    <string name="isi_snail">
+        <p> \n
+        Round about the garden ran a hedge of hazel-bushes; beyond the hedge were fields and meadows with cows and sheep,
+            but in the middle of the garden stood a Rose-tree in bloom, under which sat a Snail, whose shell contained a great deal—that is, himself.</p>
+        \n
+        <p> \n \“Only wait till my time comes,\” he said.
+        \n \“I shall do more than grow roses, bear nuts, or give milk, like the hazel-bush, the cows and the sheep.\”
+        \n \“I expect a great deal from you. May I ask when it will appear? \” said the rose-tree.
+            \n \“I take my time,\” said the snail. \n \“You’re always in such a hurry. That does not excite expectation.\”</p>
+
+        \n
+        <p> \n The following year the snail lay in almost the same spot, in the sunshine under the rose-tree,
+        which was again budding and bearing roses as fresh and beautiful as ever. The snail crept half out of his shell,
+        stretched out his horns, and drew them in again.
+            \n \“Everything is just as it was last year! No progress at all; the rose-tree sticks to its roses and gets no farther.\”</p>
+
+        \n
+        <p> \n The summer and the autumn passed; the rose-tree bore roses and buds till the snow fell and the weather became raw and wet,
+            then it bent down its head, and the snail crept into the ground.</p>
+        \n
+        <p> \n A new year began; the roses made their appearance, and the snail made his too.
+        \n \“You are an old rose-tree now,\” said the snail.
+        \n \“You must make haste and die. You have given the world all that you had in you.
+        Whether it was of much importance is a question that I have not had time to think about.
+        But this much is clear and plain, that you have not done the least for your inner development,
+        or you would have produced something else. Have you anything to say in defense? You will now soon be nothing but a stick.
+        Do you understand what I say?\”
+        \n \“You frighten me,\” said the rose-tree. \n \“I have never thought of that.\”
+        \n \“No, you have never taken the trouble to think at all. Have you ever given yourself an account why you bloomed,
+            and how your blooming comes about—why just in that way and in no other?\”</p>
+        \n
+        <p> \n \“No,\” said the rose-tree.
+        \n \“I bloom in gladness, because I cannot do otherwise. The sun shone and warmed me, and the air refreshed me.
+        I drank the clear dew and the invigorating rain. I breathed and I lived! Out of the earth there arose a power within me,
+        whilst from above I also received strength; I felt an ever-renewed and ever-increasing happiness, and therefore
+        I was obliged to go on blooming. That was my life; I could not do otherwise.\”
+        \n \“You have led a very easy life,\” remarked the snail.
+        \n \“Certainly. Everything was given me,\” said the rose-tree.
+        \n \“But still more was given to you. Yours is one of those deep-thinking natures, one of those highly gifted minds that astonishes the world.\”
+
+        \n \“I have not the slightest intention of doing so,\” said the snail.
+        \n \“The world is nothing to me. What have I to do with the world? I have enough to do with myself, and enough in myself\”
+        \n \“But must we not all here on earth give up our best parts to others, and offer as much as lies in our power? It is true, I have only given roses. But you—you who are so richly endowed—what have you given to the world? What will you give it?\”
+        \n \“What have I given? What am I going to give? I spit at it; it’s good for nothing, and does not concern me. For my part, you may go on bearing roses; you cannot do anything else. Let the hazel bush bear nuts, and the cows and sheep give milk; they have each their public. I have mine in myself. I retire within myself and there I stop. The world is nothing to me.\”
+            \n With this the snail withdrew into his house and blocked up the entrance.</p>
+        \n
+        <p> \n \“That’s very sad,\” said the rose tree.
+        \n \“I cannot creep into myself, however much I might wish to do so; I have to go on bearing roses. Then they drop their leaves,
+        which are blown away by the wind. But I once saw how a rose was laid in the mistress’s hymn-book, and how one of my roses found a place in the bosom of a young beautiful girl, and how another was kissed by the lips of a child in the glad joy of life. That did me good; it was a real blessing. Those are my recollections, my life.\”
+        \n And the rose tree went on blooming in innocence, while the snail lay idling in his house—the world was nothing to him.
+        Years passed by.
+        The snail had turned to earth in the earth, and the rose tree too. Even the souvenir rose in
+        the hymn-book was faded, but in the garden there were other rose trees and other snails.
+            The latter crept into their houses and spat at the world, for it did not concern them.</p>
+        \n
+        <p> \n Shall we read the story all over again? It will be just the same.</p>
+    </string>
+
+    <string name="duck">The Ugly Duckling</string>
+    <string name="isi_duck">
+        <p> \n Once upon a time down on an old farm, lived a duck family, and Mother Duck had been sitting on a clutch of new eggs.</p>
+        \n
+        <p> \n One nice morning, the eggs hatched and out popped six chirpy ducklings. But one egg was bigger than the rest, and it didn\'t hatch.
+        Mother Duck couldn\'t recall laying that seventh egg. How did it get there?
+            \n TOCK! TOCK! The little prisoner was pecking inside his shell.</p>
+        \n
+        <p> \n \"Did I count the eggs wrongly?\" Mother Duck wondered. But before she had time to think about it, the last egg finally hatched.
+        A strange looking duckling with gray feathers that should have been yellow gazed at a worried mother.
+            The ducklings grew quickly, but Mother Duck had a secret worry.</p>
+        \n
+        <p> \n \"I can\'t understand how this ugly duckling can be one of mine!\" she said to herself, shaking her head as she looked at her last born.
+        \n Well, the gray duckling certainly wasn\'t pretty, and since he ate far more than his brothers, he was outgrowing them.
+        \n As the days went by, the poor ugly duckling became more and more unhappy. His brothers didn\'t want to play with him, he was so
+            clumsy, and all the farmyard folks simply laughed at him. He felt sad and lonely, while Mother Duck did her best to console him.</p>
+        \n
+        <p> \n \"Poor little ugly duckling!\" she would say. \"Why are you so different from the others?\"
+            \n And the ugly duckling felt worse than ever. He secretly wept at night. He felt nobody wanted him.
+            \"Nobody loves me, they all tease me! Why am I different from my brothers?\"</p>
+        \n
+        <p> \n Then one day, at sunrise, he ran away from the farmyard. He stopped at a pond and began to question all the other birds.
+        \n \"Do you know of any ducklings with gray feathers like mine?\" But everyone shook their heads in scorn.
+        \n \"We don\'t know anyone as ugly as you.\"
+        \n The ugly duckling did not lose heart, however, and kept on making inquiries. He went to another pond,
+        where a pair of large geese gave him the same answer to his question.
+        \n What\'s more, they warned him: \"Don\'t stay here! Go away! It\'s dangerous. There are men with guns around here!\"
+            \n The duckling was sorry he had ever left the farmyard.</p>
+        \n
+        <p> \n Then one day, his travels took him near an old countrywoman\'s cottage. Thinking he was a stray goose, she caught him.
+        \n \"I\'ll put this in a hutch. I hope it\'s a female and lays plenty of eggs!\" said the old woman, whose eyesight was poor.
+            \n But the ugly duckling laid not a single egg. The hen kept frightening him.
+        \n \"Just wait! If you do\'t lay eggs, the old woman will wring your neck and pop you into the pot!\"
+        \n And the cat chipped in: \"Hee! Hee! I hope the woman cooks you, then I can gnaw at your bones!\"
+        \n The poor ugly duckling was so scared that he lost his appetite, though the old woman kept stuffing him with
+            food and grumbling: \"If you won\'t lay eggs, at least hurry up and get plump!\"
+            \n \"Oh, dear me!\" moaned the now terrified duckling. \"I\'ll die of fright first! And I did so hope someone would love me!\"</p>
+        \n
+        <p> \n Then one night, finding the hutch door ajar, he escaped. Once again he was all alone. He fled as far away as he could,
+        and at dawn, he found himself in a thick bed of reeds.
+        \n \"If nobody wants me, I\'ll hid here forever.\"
+            \n There was plenty a food, and the duckling began to feel a little happier, though he was lonely.</p>
+        \n
+        <p>\n One day at sunrise, he saw a flight of beautiful birds wing overhead. White, with long slender necks, yellow beaks and large wings,
+        they were migrating south.
+            \n \"If only I could look like them, just for a day!\" said the duckling, admiringly.</p>
+        \n
+        <p> \n Winter came and the water in the reed bed froze. The poor duckling left home to seek food in the snow. He dropped exhausted to the ground,
+        but a farmer found him and put him in his big jacket pocket.
+        \n \"I\'ll take him home to my children. They\'ll look after him. Poor thing, he\'s frozen!\"
+        \n The duckling was showered with kindly care at the farmer\'s house.
+            In this way, the ugly duckling was able to survive the bitterly cold winter.</p>
+        \n
+        <p> \n However, by springtime, he had grown so big that the farmer decided:
+        \n \"I\'ll set him free by the pond!\"
+        \n That was when the duckling saw himself mirrored in the water.
+        \n \"Goodness! How I\'ve changed! I hardly recognize myself!\" The flight of swans winged north again and glided on to the pond.
+        When the duckling saw them, he realized he was one of their kind, and soon made friends.
+        \n \"We\'re swans like you!\" they said, warmly. \"Where have you been hiding?\"
+            \n \"It\'s a long story,\" replied the young swan, still astounded.
+            \n Now, he swam majestically with his fellow swans.</p>
+        \n
+        <p> \n One day, he heard children on the river bank exclaim:
+        \n \"Look at that young swan! He\'s the finest of them all!\"
+            \n And he almost burst with happiness. </p> </string>
+
+    <string name="little_pigs">Three Little Pigs</string>
+    <string name="isi_pigs">
+        <p> \n Once upon a time there were three little pigs, who left their parents to see the world.
+        \n All summer long, they roamed through the woods and over the plains, playing games and having fun. None were happier than the three
+        little pigs, and they easily made friends with everyone. Wherever they went, they were given a warm welcome, but as summer drew to a close,
+        they realized that all drifting back to their usual jobs, and preparing for winter. Autumn came and it began to rain.
+        The three little pigs started to feel they needed a real home. Sadly, they knew that the fun was over now and they must set
+            to work like the others, or they\'d be left in the cold and rain, with no roof over their heads. </p>
+        \n
+        <p> \n They talked about what to do, but each decided for himself. The laziest little pig said he\'d build a straw hut.
+        \n \"It will only take a day,\" he said. The others disagreed.
+            \n "It\'s too fragile,\" they said but he refused to listen.</p>
+        \n
+        <p> \n Not quite so lazy, the second little pig went in search of planks of seasoned wood.
+            \n it took him two days to nail them together. </p>
+        \n
+        <p>\n But the third little pig did not like the wooden house.
+        \n \” It takes time, patience and hard work to build a house that is strong enough to stand up to wind, rain, and snow, and most of all,
+            protect us from the wolf!\"</p>
+        \n
+        <p> \n The days passed, and the wisest little pig\'s house took shape, brick by brick. From time to time, his brothers visited him, saying,
+        \n \"Why are you working so hard? Why don\'t you come and play?\"
+        \n But the stubborn bricklayer pig just said \"no\".
+        \n \"I shall finish my house first. It must be strong. And then I\'ll come and play!\" he said.
+            \n \"He who laughs last, laughs longest!\"</p>
+        \n
+        <p> \n Now, it was the wisest little pig that found the tracks of a big wolf in the neighborhood.
+        \n The little pigs rushed home in alarm. Along came the wolf, scowling fiercely at the laziest pig\'s straw hut.
+        \n \"Come out!\" ordered the wolf, his mouth watering.
+        \n \"I want to speak to you!\"
+        \n \"I\'d rather stay where I am!\" replied the little pig in a tiny voice.
+        \n \"I\'ll make you come out!\" growled the wolf angrily, and puffing out his chest, he took a very deep breath.
+        \n Then he blew with all his might, right onto the house. And all the straw the silly pig had heaped against some thin poles fell down.
+        \n Excited by his own cleverness, the wolf did not notice that the little pig had slipped out from underneath the heap of straw,
+        and was dashing towards his brother\'s wooden house.
+        \n When he realized that the little pig was escaping, the wolf grew wild with rage.
+        \n \"Come back!\" he roared, trying to catch the pig as he ran into the wooden house.
+            \n \"I hope this house won\'t fall down! Let\'s lean against the door so he can\'t break in!\" said the little pig to his brother.</p>
+        \n
+        <p> \n Outside, the wolf could hear the little pigs\' words. Starving as he was, at the idea of a two course meal, he rained blows on the door.
+            \n \"Open up! Open up! I only want to speak to you!\"</p>
+        \n
+        <p> \n Inside, the two brothers wept in fear and did their best to hold the door fast against the blows.
+        \n Then the furious wolf braced himself a new effort: he drew in a really enormous breath, and went … WHOOOOO!
+            \n The wooden house collapsed like a pack of cards.</p>
+        \n
+        <p> \n Luckily, the wisest little pig had been watching the scene from the window of his own brick house, and he rapidly opened the door
+        to his fleeing brothers.
+        \n Soon after, the wolf came hammering furiously on the door. This time, the wolf had grave doubts. This house had a much more solid air than
+        the others.
+        \n He blew once, he blew again and then for a third time but all in vain. For the house did not budge an inch.
+            \n The three little pigs watched him and their fear began to fade. </p>
+        \n
+        <p> \n Quite exhausted by his efforts, the wolf decided to try one of his tricks.
+        He scrambled up a nearby ladder, on to the roof to have a look at the chimney. However, the wisest little pig had seen this ploy,
+        and he quickly said.
+        \n \"Quick! Light the fire!\" With his long legs thrust down the chimney, the wolf was not sure if he should slide down the black hole.
+        It wouldn\'t be easy to get in, but the sound of the little pigs\' voices below only made him feel hungrier.
+        \n \"I\'m dying of hunger! I\'m going to try and get down.\" And he let himself drop.
+            \n But landing was rather hot, too hot! The wolf landed in the fire.</p>
+        \n
+        <p> \n The flames licked his hairy coat and his tail became a flaring torch.
+        \n \“Never again will I go down a chimney\" he squealed, as he tried to put out the flames in his tail.
+            Then he ran away as fast as he could.
+        \n Then the three happy little pigs, dancing round and round the yard, began to sing.
+            \n \"Tra-la-la! Tra-la-la! The wicked black wolf will never come back…!\"</p>
+        \n
+        <p> \n From that terrible day on, the wisest little pig\'s brothers set to work with a will. In less than no time,
+        up went the two new brick houses. The wolf did return once to roam in the neighborhood,
+            but when he caught sight of three chimneys, he remembered the terrible pain of a burnt tail, and he left for good.</p>
+        \n
+        <p> \n Now safe and happy, the wisest little pig called to his brothers.
+            \n \"No more work! Come on, let\'s go and play!\"</p>
+    </string>
+
+    <string name="judul">Tulus Dan Ikhlas</string>
+    <string name="isi">
+        \n\n<p> Disatu cerita, ada seorang bapak tua yang mempunyai empat orang anak. Sang ayah jatuh sakit dan tidak bisa melakukan apa-apa. Ia hanya berbaring diranjang saja sepanjang hari.
+        \n Salah seorang dari ke empat anaknya itu merawat sang ayah yang sedang terbaring sakit, karena tiga anak yang lainnya tidak mau
+        mengurus dan merawat ayah mereka yang sedang sakit.
+        \n Ia tetap melakukan semua nya dengan tulus dan dengan hati yang ikhlas.</p>
+        <br/>
+        \n\n<p> Suatu ketika, sang ayah meninggal dunia, dan ia pun begitu sedih.Selain karena kehilangan ayah yang sangat dicintainya,
+        harta warisannya pun di ambil semua oleh ketiga saudaranya yang lain.</p>
+        <br />
+        \n\n <p> Pada suatu malam, ia bermimpi bertemu dengan sang ayah, di dalam mimpinya sang ayah menyuruhnya untuk pergi kesuatu tempat.
+        \n Ditempat itu ada uang dengan jumlah seratus dinar. Pada pagi harinya ia pun menceritakan mimpinya itu kepada sang istri yang langsung
+        menyarankan agar ia mendatangi tempat itu. Namun ia tidak mau.</p>
+        <br />
+        \n\n<p> Pada malam berikutnya, Ia bermimpi lagi dengan mimpi persis seperti malam sebelumnya.Namun Ia tetap tidak mau mendatangi tempat yang
+        disebut dalam mimpinya. Kemudian di malam ketiga berikutnya lagi Ia bermimpi lagi hal yang sama persis.</p>
+        <br />
+        \n\n <p>Dan akhirnya pun ia pergi ketempat yang disebutkan oleh sang ayah didalam mimpinya itu untuk mengambil uang sejumlah seratus dinar.
+        \n Tapi sesampainya ditempat itu ia hanya mengambil satu dinar saja dari sana. \n\n Dengan suka cita, Ia pun pergi kepasar.
+        Dan ia pun membeli dua ekor ikan yang besar-besar.</p>
+        <br/>
+        \n\n <p> Sesampai dirumah, istinya sangat senang dan segera membersihkan ikan-ikan itu.
+        \n Betapa terkejut istrinya ketika membelah perut ikan terdapat dua buah mutiara yang paling indah dari yang pernah ia lihat selama hidupnya.</p>
+
+        \n \n <p> Hikmah Cerita:
+         \n Adik-adik yang baik, kita harus melakukan perbuatan baik dengan hati yang ikhlas dan tanpa mengharapkan imbalan.
+        Allah SWT akan menyukai dan akan membalas perbuatan kita di suatu saat yang tidak terduga.</p>
+    </string>
+    <string name="cerita">Cerita</string>
+    <string name="crt1">crt1</string>
+    <string name="crt2">crt2</string>
+    <string name="judul2">Akibat Dari Perbuatan Menyekutukan Tuhan</string>
+    <string name="isi2">\n <p> Pada suatu hari, ada seorang ahli ibadah melewati sebuah pohon.
+        Seorang ahli ibadah itu sangat marah karena melihat banyak orang-orang yang beramai-ramai sedang menyembah pohon itu.
+        Dalam perjalanan Ia dicegat oleh iblis yang menjelma menjadi manusia.
+        Iblis pun melarang Ia untuk menebang pohon itu, si Iblis pun terus mencegatnya hingga akhirnya terjadilah pergulatan.
+        Dan dengan mudah si ahli ibadah ini mengalahkan si iblis.</p>
+        <br />
+        \n\n <p> Karena si iblis kalah, si iblis pun menawarkan sejumlah uang sebesar dua dinar yang akan ditaruh dibawah bantal
+        siahli ibadah setiap harinya, asalkan Si ahli ibadah tidak menebang pohon itu.
+            \n Si ahli ibadah pun setuju dengan penawaran dari si iblis dan Ia pun merasa gembira.</p>
+        <br />
+        \n\n <p> Namun suatu hari, ia tidak menemukan lagi uang yang di janjikan si iblis di bawah bantalnya.
+        \n\n \"Kurang ajar..! Aku ditipu Iblis..! Sekarang aku akan kembali menebang pohon itu!\" seru si ahli ibadah dengan kekesalannya.
+        \n\n Di perjalanan, Ia bertemu kembali dengan iblis dalam bentuk manusia lagi,
+        dan si iblis pun bertanya
+        \n\n \"Hendak kemanakah engkau?\"
+        \n\n \"Aku akan menebang pohon yang disembah itu, karena perbuatan menyembah pohon atau pun benda adalah menyekutukan Allah SWT\".
+        \n Jawab si Ahli Ibadah.
+        \n\"Bohong, engkau berbohong..! Bukan karena itu engkau mau menebangnya!\" seru si Iblis.
+            \n \n Si ahli Ibadah terus melangkah menuju pohon itu untuk menebangnya.</p>
+
+        \n Hingga iblis pun marah dan membantingnya ketanah lalu mencekik lehernya.
+        \n\n \"Tahukah kau, Siapa aku sebenarnya? Aku adalah iblis yang menjelma menjadi manusia..!
+        Engkau datang pertama kalinya ingin menebang pohon itu semata-mata karena Allah SWT, hingga kau bisa menang dari ku.
+        Lalu aku menipu mu dengan uang dua dinar, dan sekarang kau melawan ku karena uang bukan karena Allah hingga kau dapat aku kalahkan.\"
+
+        \n\n Hikmah Dari cerita Akibat menyekutukan Tuhan Adik-adik yang baik:
+        \n Ternyata jika kalau kita melakukan sesuatu bukan karena Allah, maka kita akan mudah sekali menyerah dan
+        bahkan kita akan sangat mudah sekali dikalahkan.
+        \n Oleh karena itulah, jika kita mengerjakan sesuatu amal harus dengan ikhlas dan karena Allah.
+        Dan kita juga tidak boleh menyekutukan Allah SWT, karena perbuatan menyekutukan
+        Allah akan menjadikan kita disenangi oleh setan.
+        \n\n Jika adik-adik ingin disenangi oleh Allah, seperti kakak pesan tadi Jangan pernah menyekutukan Allah SWT</string>
+    <string name="crt_3">crt3</string>
+    <string name="crt_4">crt4</string>
+    <string name="judul3">Laki - laki Sederhana, Calon Penghuni surga</string>
+    <string name="judul4">Canda Sang Sipenggembala Kepada Penduduk Desa</string>
+    <string name="isi4">
+        \n Awal cerita, seorang pengembala yang sedang menggiring dombanya menuju padang rumput di dekat desa.
+        Ketika si penggembala domba sedang duduk santai sambil menggembala dombanya, terlintas dibenak sipenggembala untuk mempermainkan para penduduk desa.
+        \n\n \"Serigala…! Serigala…!\" teriak si penggembala sekeras-kerasnya. Dan para penduduk desa pun berhamburan lari dari rumah dengan membawa tongkat untuk menolong si penggembala. Tapi penduduk desa tidak menemukan apa - apa, yang ada hanya penggembala yang sedang mentertawakan kebodohan mereka.
+
+        \n \n Singkat cerita, di hari kedua, Si pengembala mengulangi kembali perbuatannya.Ia berteriak
+        \n \n \"Serigala…! Serigala…!.\"
+        \n \n Orang - orang desa pun kembali berhamburan berlarian ingin menolong si penggembala. Tapi penduduk desa tidak menemukan apa - apa yang ada hanya si penggembala yang dengan girangnya ia menertawakan mereka.
+
+        \n \n Dihari yang ke tiga, seekor serigala benar - benar datang, si penggembala pun terlihat ketakutan. Karena ketakutannya terhadap serigala ia pun berteriak - teriak memenggil penduduk desa,
+        \n \n \"Serigala! Serigala…!\"
+        \n \n Domba gembalaannya diterkam serigala, namun tak satu pun penduduk desa datang menolongnya. Karena menyangka penggembala hanya mau membohongi mereka lagi.
+        \n \n
+        \n Makna cerita si penggembala:
+        \n Nah, adik - adik yang baik. Dari cerita diatas bisa kita simpulkan bahwasanya apabila kita sudah melakukan kebohongan maka orang yang pernah kita bohongi tidak akan percaya lagi kepada kita, walaupun apa yang kita katakan itu benar kejadiannya tapi mereka tidak akan percaya. Makanya adik - adik yang baik kita tidak boleh berbohong kepada teman - teman, guru, orang tua, ataupun kepada orang lain. Karena sipembohong pasti tidak akan selamat dari hukuman.
+</string>
+
+    <string name="isi3">
+        \n Suatu ketika, nabi besar Muhammad sedang duduk-duduk bersama dengan para sahabat-sahabatnya. Beliau berkata kepada para sahabat,
+        \n \n \"Sebentar lagi, salah satu ahli syurga akan muncul di hadapan kalian.\"
+        \n \n Dan para sahabat-sahabat nabi pun terdiam dan memandang. Mereka bertanya-tanya, siapa yang kira-kira yang di maksud Nabi dengan calon penghuni syurga?
+
+        \n \n Tak begitu lama kemudian, datanglah seorang laki - laki dengan berpenampilan sederhana muncul dihadapan mereka. Tampak pada seorang laki-laki tersebut menetes sisa-sisa dari air wudhu dari janggutnya dan tampak laki-laki itu sedang menenteng sandal dengan tangan kirinya.
+        \n \n Dan pada hari berikutnya, Nabi Muhammad SAW mengulang kembali lagi perkataannya kepada para sahabatnya tentang calon penghuni syurga. Dan laki-laki berjanggut kemarin pun tiba-tiba muncul dan melintas.
+        \n \n Dihari ketiga Nabi Muhammad SAW mengulang lagi perkataan yang sama kepada para sahabat, dan kejadian itu pun kembali terulang, lelaki itu pun tiba-tiba muncul kembali.
+
+        \n \n Mendengar ucaapan dari Nabi Muhammad SAW itu, akhirnya salah satu seorang sahabat Nabi bernama Abdullah Bin Amr merasa penasaran dan bertanya di dalam hatinya apakah sebenarnya yang dilakukan oleh seorang laki-laki itu, sehinga ia bisa masuk syurga? dan sahabt Nabi yang bernama Abdullah pun mengikuti laki-laki yang dimaksud oleh Nabi tersebut.
+        \n Abdullah pun menyapa kepada laki-laki itu
+        \n \n \"Wahai sahabat ku, apa bolehkah aku menginap selama tiga hari di rumahmu?\"
+        \n Ia pun menjawab
+        \"Silahkan, dengan senang hati.\"
+
+        \n \n Pada akhirnya Abdullah pun menginap dirumah laki-laki itu hingga tiga malam berlalu. Abdullah tidak melihat laki-laki itu tidak melakukan amal-amal penghuni syurga. Dan terlihat ibadah laki-laki itu pun biasa-biasa saja. Lalu apakah yang membuat laki-laki itu bisa masuk syurga?
+        \n Abdullah pun memberanikan diri bertanya kepada laki-laki itu
+        \n \n \"Sudah tiga hari aku disini, aku tidak melihat mu mengerjakan ibadah-ibadah yang luar biasa. Tapi mengapa Nabi Muhammad berulang kali menyebut mu sebagai salah satu calon dari penghuni syurga?\"
+        \n \n Laki-laki itu pun menjawab
+        \n \n \"Aku tidak melakukan amalan-amalan yang istimewa, akan tetapi sebelum tidur Aku berusaha mengingat kesalahan - kesalahan saudaraku seiman. Dan Aku berusaha mema\'afkan kesalahan-kesalahan mereka sebelum Aku tidur, Aku hilangkan rasa iri dan dengki terhadap karunia Allah SWT yang di berikan kepada saudara ku.\"
+
+        \n \n
+        \n Hikmah Cerita:
+        \n Adik-adik ternyata jika kita memaafkan kesalahan - kesalahan teman kita sesama muslim, Allah SWT akan memberikan syurga sebagai balasannya. Kita harus bersyukur atas nikmat yang di berikan-Nya untuk kita. maka hati kita pun akan lebih senang dan lapang, dan teman-teman kita pun akan suka kepada kita. Karena Orang-orang yang mempunyai sifat Dengki dan sifat pemdendam merupakan Kawan syaiton. dan orang yang mempunya sifat iri dan dengki nya pun tidak akan disukai oleh teman-temannya yang lain. Adik-adik tentu ingin punya banyak teman dan di sayang oleh semua Orang, kan? Maka jadilah adik-adik orang yang pemaaf, dan Allah SWT pun akan menyayangi Adik-adik.
+    </string>
+
+    <string name="crt_5">crt5</string>
+    <string name="judul5">Kisah Si belang, Si botak Dan Si buta</string>
+    <string name="isi5">
+        \n Awal cerita, ada tiga orang dari bani israil, yaitu si Belang, si Botak dan si Buta.
+        \n Pada suatu waktu Allah ingin menguji mereka bertiga. Allah pun mengutus Malaikat kepada si Belang. Sang Malaikat bertanya
+        \n \"Apa yang paling engkau inginkan dalam hidupmu?\"
+        \n \"Disembuhkan penyakitku dan mempunyai kulit yang indah, agar orang tidak lagi jijik melihatku.\" kata si Belang berharap.
+        \n Sang Malaikat pun lalu mengusap si Belang dan tiba-tiba cacatnya pun hilang. Kulitnya bersih dan bercahaya.
+
+        \n \n Sang malaikat kembali bertanya
+        \n \"Binatang apa yang paling menyenangkan hatimu?\"
+        \n \"Unta\" Jawab si Belang
+        \n Lalu sang Malaikat pun memberikannya unta hamil dan berkata,
+        \n \"Semoga Allah memberkati atas apa yang engkau miliki.\"
+
+        \n \n Setelah itu sang Malaikat mendatangi si Botak dan bertanya,
+        \n \"Apa yang paling engkau inginkan?\"
+        \n \"Rambut yang indah\" kata si Botak.
+        \n Malaikat pun kemudian mengusap kepala si Botak dan tiba-tiba tumbuhlah rambut indah dikepalanya.
+
+        \n \n \"Binatang apakah yang menarik hatimu?\" Tanya sang Malaikat kembali.
+        \n \"Sapi\" Jawab si Botak.
+        \n Sang Malaikat pun memberikannya seekor sapi hamil dan berkata,
+        \n \"Semoga Allah memberkahi hartamu.\"
+
+        \n \n Terakhir Sang Malaikat mendatangi si Buta, Malaikatpun bertanya,
+        \n \"Apa yang paling engkau inginkan?\"
+        \n \"Kembali melihat, hingga bisa melihat orang-orang.\" Jawabnya.
+        \n Malaikat pun mengusap matanya dan tiba-tiba ia bisa melihat kembali
+
+        \n \n \"Binatang apa yang menarik hatimu?\"
+        \n \"Kambing\" jawab si Buta.
+        \n Malaikat lalu memberikannya kambing yag sedang hamil dan mengucapkan salam perpisahan kepada si Buta.
+
+        \n \n Setelah sekian lama, binatang yang dimiliki ketiga hamba Allah itu beranak pinak dengan cepat dan sehat. Seiring berjalannya waktu tanpa terasa jumlah hewan peliharaan mereka sudah banyak hingga memenuhi lembah tempat mereka masing-masing tinggal. Dan Malaikat pun datang kembali untuk menguji mereka bertiga, namun sang Malaikat datang dalam bentuk yang berbeda dan ditugaskan Allah kembali untuk mendatangi ketiga orang bani israil yaitu si Belang, si Botak Dan si Buta.
+
+        \n \n Malaikat pun mendatangi si Belang dan berkata,
+        \n \"Aku orang yang malang, Aku kehabisan bekal dalam perjalananku ini. Tidak ada yang bisa menyampaikan kepada tujuanku selain Allah dan engkau. Tolonglah aku.\"
+        \n \"Urusanku sangat banyak. Aku tidak bisa memberimu apa-apa.\" kata si Belang.
+        \n \"Sepertinya Aku pernah mengenalmu. Bukankah engkau dulu berpenyakit belang dan orang-orang jijik kepadamu? Bukankah engkau dulu orang miskin lalu Allah memberimu rezeki?\"
+        \n \"Kau keliru! aku mewarisi harta ini dari nenek moyangku.\" balas si Belang.
+        \n \"Jika engkau berdusta, Allah akan membuatmu seperti dahulu.\" Kata Malaikat sambil meninggalkan si Belang.
+
+        \n \n Kemudian, Malaikat mendatangi si Botak dan meminta bantuan seperti yang dilakukan kepada si Belang. Tak berbeda, si Botak pun memberikan jawaban serupa. Malaikat hanya berkata,
+        \n \"Jika engkau berdusta, Allah akan membuatmu seperti dahulu.\"
+
+        \n \n Setelah itu Malaikat mendatangi si Buta. Malaikat pun menyampaikan permintaan yang serupa. Dengan tulus si Buta menjawab,
+        \n \"Sesungguhnya dahulu aku adalah orang yang buta. Lalu Allah mengembalikan pengelihatanku. Ambilah apa yang engkau sukai dan tinggalkan apa yang engkau tidak sukai, karena semua ini adalah titipan Allah.\"
+
+        \n \n Malaikat yang menyamar pun tersenyum dan berkata,
+        \n \"Aku Malaikat yang ingin mengujimu. Allah senang kepadamu dan sangat marah kepada dua temanmu.\"
+
+        \n \n
+        \n
+        Makna Cerpen Si Belang Si Botak Dan Si Buta Dari cerita diatas memberikan kita nasihat yang sangat berharga, bahwa segala sesuatau apa yang kita miliki yang diberikan oleh Allah SWT, itu hanyalah titipan sementara, suatu saat akan kembali kepada-Nya. Karena itu, kita harus rela dan ikhlas. Adik-adik yang baik, didalam hidup ini banyak ujian yang dihadapi manusia. Dan seringkali ujian itu datang dengan tiba-tiba. Adik-adik harus tahu bahwa apa yang ada pada kita saat ini adalah milik sang Pencipta, Yakni Allah SWT. Allah akan mengambil sesuka-suka kapan dan dimana saja yang Dia kehendaki.
+    </string>
+
+    <string name="crt_6">crt6</string>
+    <string name="judul6">Kisah Tukang Kebun Rajin Sedekah</string>
+    <string name="isi6">
+        Pada suatu hari, ada seorang musafir yang sedang berjalan di padang pasir, tiba-tiba saja seorang musafir itu mendengar suara dari langit,
+        \n \"Siramilah kebun milik si Fulan.\"
+        \n Dan setelah si musafir mendengar suara itu, tiba-tiba hujan turun sangat derasnya, menyirami kebun milik si Fulan.
+        \n Si Musafir pun terlihat keheranan, dan dari rasa penasarannya si musafir pun mencari pemilik kebun tersebut.
+
+        \n \n Setelah si musafir bertemu dengan si pemilik kebun, dia pun bertanya kepada si pemilik kebun,
+        \n \"Siapa namamu?\" tanya si musafir.
+        \n \"Fulan, Mengapa bertanya tentang namaku?\" jawab si pemilik kebun.
+        \n \"Saat aku sedang berjalan di padang pasir tiba-tiba aku mendengar suara di langit, yang memerintahkan hujan untuk menyirami kebun milikmu. Dan tidak lama setelah suara itu hujan pun turun. Aku sangat keheranan dan penasaran, sebenarnya amalan apa yang engkau perbuat?\" Tanya si musafir.
+        \n \"Mungkin karena aku sering sedekahkan sepertiga tanaman yang tumbuh dari kebunku, sepertiganya aku buat makan bersama keluargaku, dan sepertiganya lagi aku biarkan.\" Jawab si Pemilik kebun.</string>
+
+    \n \n
+    \n  Makna Cerita Adik-adik di dunia ini adalah tempatnya untuk mengumpulkan pahala kebaikan, untuk bekal kita nanti saat kita kembali kepada Allah SWT. Salah satu amal kebaikan yang sangat Allah cintai adalah Bersedekah. Adik-adik harus tahu bahwa dalam harta yang kita miliki atau yang kita dapatkan, itu terdapat hak-hak anak yatim, orang miskin, dan orang-orang yang membutuhkan. Karena itu, Adik-adik rajinlah bersedekah, karena Allah akan menggantinya dengan yang lebih baik dari yang kita sedekahkan.
+
+    <string name="crt_7">crt7</string>
+    <string name="judul7">Cerita Abu Nawas Berpura-pura Gila</string>
+    <string name="isi7">
+        Berikut ini kisah Abu Nawas berpura-pura gila agar tidak diangkat menjadi hakim oleh Sultan Harun Al Rasyid.
+        \n \n Abu Nawas adalah seorang pujangga Arab. Ia bernama asli Abu Ali Al Hasan bin Hani Al Hakimi. Abu Nawas juga dikenal sebagai sosok yang bijaksana sekaligus jenaka. Ia hidup di Baghdad pada masa kepemimpinan Sultan Harun Al Rasyid. Lahir pada 756 Masehi di Ahvaz Persia dan meninggal pada 814 Masehi di Baghdad. Ayah Abu Nawas bernama Syeikh Maulana, seorang hakim di Baghdad.
+
+        \n \n Suatu waktu, Syeikh Maulana meninggal dunia. Mengetahui kabar duka itu, Sultan Harun Al Rasyid memerintahkan Abu Nawas menguburkan jenazah ayahnya sesuai adat keluarga Syeikh Maulana.
+         Melihat Abu Nawas, Sultan senang. Sebab Abu Nawas seperti ayahnya saat sedang memandikan jenazah, mengafani, menyalati, dan mendoakan.
+
+        \n \n Namun, Sultan mendadak kaget. Tiba-tiba Abu Nawas mengambil batang pohon pisang lalu menaikinya seperti menunggangi kuda.
+        \n \"Ada apa dengan Abu Nawas?\"
+        \n \n  Abu Nawas berlagak seperti orang gila usai jenazah ayahnya dikebumikan. Ia mengambil batang pohon pisang, lalu berlari-lari dari pemakaman menuju rumahnya.
+
+        \n \n Ternyata, Abu Nawas hanya berpura-pura agar tidak diangkat oleh Sultan menjadi hakim menggantikan ayahnya. Ia mengetahui tatkala Sultan menganggap karakter Abu Nawas mirip dengan Syeikh Maulana.
+        \n \n Melihat Abu Nawas, banyak orang di Baghdad menganggap dia telah menjadi gila. Sultan pun mengirim utusan kepada Abu Nawas.
+
+        \n \n \"Hai Abu Nawas, kau dipangil ke istana untuk menghadap Sultan!\" kata utusan.
+        \n \"Buat apa Sultan memanggilku? Aku tidak ada keperluan dengannya,\" jawab Abu Nawas enteng.
+        \n \" Kau tidak boleh berkata seperti itu pada rajamu, Abu Nawas.\"
+        \n \"Hai utusan, kau jangan banyak bicara. Cepat ambil kudaku ini dan mandikan supaya bersih dan segar,\" kata Abu Nawas sembari menyodorkan sebatang pohon pisang.
+
+        \n \n Melihat hal itu, utusan Sultan hanya bergeleng-geleng merasa heran. Abu Nawas pun meminta agar utusan lekas pergi.
+        \n \"Sudah pergi sana. Bilang saja seperti pesanku tadi kepada rajamu,\" katanya sembari melemparkan debu ke arah utusan.
+
+        \n \n Di hari yang lain, Sultan mengumpulkan para menteri.
+        \n \"Apa pendapat kalian mengenai Abu Nawas yang hendak kuangkat sebagai hakim?\"
+        \n \"Melihat keadaan Abu Nawas yang semakin parah otaknya, sebaiknya Tuanku mengangkat orang lain saja,\" usul seorang menteri.
+        \n Menteri yang lain mengutarakan pendapat sama.
+
+        \n \n \"Tuanku, Abu Nawas telah menjadi gila. Ia tidak layak untuk menjadi hakim.\"
+        \n \"Baiklah, kita tunggu dulu sampai 20 hari. Ayahnya kan baru saja meninggal. Jika tidak sembuh-sembuh juga, bolehlah kita mencari orang lain,\" jawab Sultan dengan bijak.
+
+        \n \n Setelah satu bulan berlalu, Abu Nawas masih berpura-pura gila. Sultan pun, akhirnya mengangkat orang lain untuk dijadikan hakim.
+
+    \n \n
+    \n Ternyata alasan Abu Nawas tidak mau menjadi hakim itu karena pesan ayahnya. Sebelum ayahnya meninggal, ia mencium kedua daun telinga ayahnya. Saat dicium, telinga bagian kanan berbau harum sedang yang kiri berbau busuk. Syeikh Maulana bercerita,
+        \n \"Suatu hari datang dua orang mengadukan masalahnya. Satu orang pertama aku dengarkan keluhannya, sedang seorang yang lain karena tidak suka jadi tidak kudengarkan. Ini resiko menjadi hakim,\" kata Syeikh Maulana kepada Abu Nawas.
+        \n \n Pesan Syeikh Maulana, \"Jika kau senang menjadi hakim maka kelak kau akan bernasib sama seperti aku. Namun jika kau tidak menyukainya, buatlah alasan masuk akal agar Sultan tidak mengangkatmu sebagai hakim.\"
+    </string>
+
+    <string name="crt_8">crt8</string>
+    <string name="judul8">Cerita Seorang Abu Nawas yang memenangkan lomba berburu dengan Abu Jahil.</string>
+    <string name="isi8">
+        Suatu hari, dihari yang cerah, Sang Raja yang tentu saja Harun Ar-Rasyid beserta para pengawal-pengawalnya meninggalkan istana untuk berburu. Tapi ditengah perjalanan, salah seorang pejabat kerajaan yang bernama Abu Jahil menyusul rombongan raja yang hendak berburu dengan nafas terengah-engah diatas kudanya. Dan Abu Jahil bicara kepada Sang Raja,
+        \n \"Baginda…Baginda Raja… Hamba mau mengusulkan sesuatu,\" sambil mendekati sang Raja Harun Ar-rasyid.
+        \n \"Apa Usulmu wahai Abu Jahil?\" tanya sang Raja.
+        \n \"Agar acara berburu ini menarik dan disaksikan oleh banyak penduduk, bagaimana kalau kita sayembarakan saja?\" ujar Abu Jahil dengan raut wajah yang serius.
+
+        \n \n Sang Baginda raja terdiam sejenak dengan kepala menganguk-ngangguk.
+        \n \"Hamba ingin beradu ketangkasan dengan Abu Nawas,dan pemenangnya nanti akan mendapat sepundi uang emas,dan kalau yang kalah nanti akan dihukum dengan hukuman memandikan kuda-kuda istana selama satu bulan.\" Tutur Abu Jahil untuk meyakinkan Raja Harun Ar-Rasyid.
+        \n Dan Terompet Sayembara pun Ditiup.
+
+        \n \n Akhirnya sang Raja menyetujui usulan Abu Jahil tersebut. Hitung-hitung sayembara itu akan memberikan hiburan kepadanya. Maka, dipanggillah Abu Nawas untuk menghadap, dan setelah menghadap Raja Harun, Abu nawas pun diberi petunjuk panjang lebar.
+        \n \n Pada awalnya, Abu Nawas menolak sayembara tersebut karena ia tahu bahwa semua ini adalah akal bulus dari Abu Jahil yang ingin menyingkirkannya dari istana. Tapi Baginda Raja Harun memaksa dan Abu nawas tidak bisa menolaknya. Abunawas pun berpikir sejenak. Abu Nawas tahu kalau Abu Jahil sekarang diangkat menjadi pejabat istana. Ia pasti mengerahkan semua anak buahnya untuk menyumbang seekor binatang buruannya di hutan nanti.
+        \n \n Namun, karena kecerdikannya, Abu Nawas malah tersenyum dengan riang. Abu Jahil yang melihat perubahan raut muka Abunawas menjadi penasaran dbuatnya. Dalam batinnya Abu Jahil berkata,
+        \n \"Mana mungkin Abu Nawas bisa mengalahkan dirinya kali ini.\"
+
+        \n \n Akhirnya, Baginda menggiring mereka ke tengah alun-alun istana. Raja dan seluruh rakyat menunggu, siapa yang bakal menjadi pemenang dalam lomba berburu ini.
+         Terompet tanda mulai adu ketangkasan pun ditiup.
+        \n Abu Jahil segera memacu kudanya secepat kilat menuju hutan belantara. Anehnya, Abu Nawas justru sebaliknya, dia dengan santainya menaiki kudanya sehingga para penonton pun banyak yang berteriak.
+
+        \n \n Saat menjelang sore hari, tampaklah kuda Abu Jahil memasuki pintu gerbang istana. Ia pun mendapat sambutan meriah dan tepuk tangan dari rakyat yang menyaksikannya. Di sisi kanan dan kiri kuda Abu Jahil tampak puluhan hewan yang mati terpanah. Abu Jahil dengan senyum bangga memperlihatkan semua binatang buruannya di tengah lapangan.
+        \n “…Aku, Abu Jahil berhak memenangkan lomba ini. Lihat… binatang buruanku banyak. Mana mungkin Abunawas mengalahkanku?…” teriaknya abu Jahil dengan lantang yang membuat para penonton semakin ramai bertepuk tangan.
+        \n Tidak berapa lama kemudian, terdengar suara kaki kuda Abunawas. Semua orang mentertawakan dan meneriakinya karena Abunawas tak membawa satu pun binatang buruan di kudanya.    Tapi, Abunawas tidak tampak gusar sama sekali. Ia malah tersenyum dan melambaikan tangan.
+
+        \n \n Baginda Raja menyuruh kepada 2 orang pengawalnya maju ke tengah lapangan dan menghitung jumlah binatang buruan yang didapatkan 2 peserta tersebut. Dan kesempatan pertama, para pengawal menghitung jumlah binatang hasil buruan dari Abu Jahil.
+        \n \“Tiga puluh lima ekor kelinci, ditambah lima ekor rusa dan dua ekor babi hutan, kata salah satu pengawal.\"
+        \n \“Kalau begitu akulah pemenangnya karena Abunawas tak membawa seekor binatangpun,\” teriak Abu Jahil dengan sombongnya.
+        \n \"“Tenang… tenang…. aku membawa ribuan binatang. Jelaslah aku pemenangnya dan engkau wahai Abu Jahil, silahkan memandikan kuda-kuda istana. Menurut aturan lomba, semua binatang boleh ditangkap, yang penting jumlahnya,\” kata Abunawas sambil membuka bambu kuning yang telah diisi dengan ribuan semut merah.
+        \n \“Jumlahnya sangat banyak Baginda, mungkin ribuan, kami tak sanggup menghitungnya lagi,\” kata pengawal kerajaan yang menghitung jumlah semut itu.
+
+        \n \n Melihat kenyataan itu, Abu Jahil tiba-tiba saja jatuh pingsan. Baginda Raja tertawa terpingkal-pingkal dan langsung memberi hadiah kepada Abunawas.
+
+        \n \n
+        \n Hikmah:
+        \n Ingatlah bahwa Kecerdikan dan ketulusan hati pasti bisa mengalahkan kelicikan. </string>
+
+    <string name="crt_9">crt9</string>
+    <string name="judul9">Tipuan Abu Nawas kepada Tuan Tanah Yang Pelit dan Kikir</string>
+    <string name="isi_9">
+        Pada suatu hari tepatnya hari itu bulan puasa Ramadhan menjelang hari yang keenam. Seperti biasanya, Sambil menunggu bedug magrib tiba,abu nawas duduk di beranda rumahnya. dia berfikir bagaimana caranya agar dapur rumahnya tetep ngebul sambiil memandang ke arah langit biru.    Tidak jauh dar rumahnya abu nawas ada seorang tuan tanah yang tentu saja sebagai tuan tanah,tentu saja mempunyai rumah yang besar.Rumah yang lengkap dengan seperangkat gudang makanan,lahan peternakan dan kamar.    Hampir setiap orang yang berada didaerah itu bahkan Abu Nawas sendiri bekerja dengan tuan tanah itu,bekerja keras setiap hari-hari tetapi dengan hasil yang sedikit.    Dan bila meminjam uang dari dirinya maka harus mengembalikannya dengan bunga yang sangat tinggi. Tingkat penghisapanya sangat tinggi.Dan tuan tanah itu mempunyai sifat yang pelit, kikir, tamak dan loba.    Singkat Cerita    Sang Tuan tanah ini mendengar kabar bahwa Abu Nawas mempunyai suatu kepandaian yang aneh. Bila ia meminjam sesuatu maka akan dikembalikan secara lebih, katanya pinjamannya itu beranak.    Seperti meminjam seekor ayam maka ayam itu akan dikembalikan dua karena ayam itu beranak. Menarik juga kepandaian Abu Nawas ini pikir sang tuan tanah. Tuan tanah lalu berpikir agar Abu Nawas segera meminjam darinya.    Secara kebetulan sore itu Abu Nawas ingin meminjam 3 butir telur kapada tuan Tanah itu. Tuan tanah tentu saja senang memberikan pinjaman kepada Abu Nawas karena pinjaman itu akan menjadi banyak karena beranak.    Malahan tuan tanah itu menanyakan kepada abu nawas    apakah ingin meminjam yang lain.    Abu Nawas menjawab tidak perlu. [Dia hanya butuh 3 butir telur].    Tuan tanah itu bertanya lagi dengan Abu Nawas abu nawas kapan telur itu akan beranak?    Singkat-singkat Cerita    Lima hari kemudian, Abu Nawas pun kembali ke rumahnya si tuan tanah itu. Mengembalikan telur menjadi 5 butir. Melihat 5 butir telur betapa senangnya Tuan tanah itu.    Tuan tanah lalu menanyakan kepada abu nawas apakah ia akan meminjam lagi. Abu Nawas lalu meminjam piring tembikar sebanyak 2 buah. Tuan tanah itu memberikan dengan senang hati dan berharap piringnya itu menjadi banyak.    Pada Lima hari kemudiannya Abu Nawas datang lagi kerumah si tuan tanah dengan membawa tiga piring tembikar. Walaupun tidak sesuai dengan yang diharapkan oleh si tuan tanah, tetapi hatinya cukup gembira karena dua piring dulu hanya melahirkan 1 anak saja. Tak apa pikir sang tuan tanah karena bisa saja orang mempunyai anak tunggal bahkan tidak memiliki anak.    Ahirnya Abu Nawas dan Tuan tanah itu sama – sama senang. Maka dari itu tuan tanah itu meminjamkan uang senilai 1000 dinar. Jumlah yang sangat besar, gaji buat seluruh karyawan dan pekerjanya selama 1 bulan.    Tuan tanah itu berangan – angan bahwa uang yang dipinjam abu nawas nanti akan diapakan karena akan banyak beranak. Tuan tanah itu menanti dengan tidak sabar.    Ditunggu selama lima hari, abu nawas tidak kunjung datang.Sudah hampir satu bulan, Abu nawas juga tidak datang. Saat tuan tanah akan mendatangi rumah Abu Nawas dengan centengnya, Abu Nawas datang.    Mulanya tuan tanah gembira tapi sesudah Abu Nawas menjelaskan persoalannya, bukan main marahnya tuan tanah itu.    “Sayang sekali tuan. Uang yang saya pinjam itu, bukannya beranak, malah tiga hari kemudian mati mendadak. ”Ujar Abu Nawas    Mendengar kata- kata itu betapa geramnya tuan tanah. Hampir saja Abu Nawas dihajar centeng tuan tanah. Untung saja ada teman – teman abu nawas yang baru pulang dari bekerja.    Lalu si tuan tanah itu mengadukan abu nawas kepada pengadilan. Tuan tanah itu berharap Abu Nawas akan digantung atau bahkan dihukum rajam.    Dan,singkat cerita pun pengadilan pun digelar. Abu Nawas membeberkan semua duduk permasalahanya. Demikian juga tuan tanah itu menjelaskan. Pengadilan pun memutuskan cukup rasional (masuk akal). Kalau sesuatu bisa beranak sudah pasti bisa mati.    Dan Abu nawas telah menjalankan lakonnya dengan baik.    Dan tuan tanah yang tamak itu telah tertipu karena wataknya sendiri yang kikir, tamak, pelit.</string>
+
+
+    <string name="crt10">crt10</string>
+    <string name="judul10">Abu Nawas dan Kisah Botol Ajaib</string>
+    <string name="isi10">
+        Suatu hari Baginda Raja Harun Ar-Rosyid memanggil Abu Nawas ke istananya untuk diberi tugas. Setelah tiba di istana, Baginda Raja menyambut Abu Nawas dengan senyuman.    “Akhir-akhir ini aku sering merasakan perutku sakit, kata tabib istana, aku terkena serangan angina,” kata Raja.    Abu Nawas sedikit keheranan, lalu bertanya, “Ampun Baginda, kiranya apa yang bisa hamba lakukan untuk Yang Mulia?”    “Tangkap dan penjarakan angin itu untukku!” Perintahnya.    Abu Nawas diam sejenak.    “Aku beri kau waktu tiga hari untuk menyelesaikan perintah ini,” tambah sang Raja.    Abu Nawas kemudian pulang dengan membawa pekerjaan dari Raja Harun Ar-Rosyid. Ia masih terdiam, mulutnya terkunci rapat tak mengeluarkan sepatah katapun. Dalam kebingungan yang tidak habis-habis, ia belum bisa memikirkan bagaimana cara menangkap dan membuktikan bahwa itu memang benar-benar angin.    Menurutnya, hanya anginlah satu-satunya benda aneh yang tidak berwarna dan tidak bisa dilihat seperti halnya air, yang masih bisa diindera.    Sudah dua hari ini, tetapi Abu Nawas masih belum bisa mendapatkan cara untuk menangkap angin, bahkan memenjarakannya. Abu Nawas hampir putus asa dan tidak bisa tidur, karena waktu yang telah ditentukan tinggal sehari lagi. mungkin kali ini ia akan menerima hukuman karena tidak bisa melaksanakan perintah Baginda.    Ia mondar-mandir memikirkan cara, tiba-tiba ia tersadar dan berkata kepada dirinya sendiri “Bukankah jin itu tidak terlihat?”    Ia berjingkrak dan menyiapkan alat-alat yang dibutuhkan dan berjalan menuju istana kemudian menyerahkan sebuah botol kepada Baginda.    “Mana angin itu, Abu Nawas?” Tanya Baginda.    “Ada di dalam, yang mulia,” jawab Abu Nawas.    “Benarkah? Aku tidak melihat apa-apa,” kata Sang Raja.    “Ampun Baginda, angin tidak bisa dilihat, tetapi jika Tuanku ingin tahu angin, tutup botol tersebut harus dibuka terlebih dahulu,” jawab Abu Nawas.    Setelah tutup botol itu dibuka, Raja mencium bau busuk. Dengan marah ia berkata kepada Abu Nawas,”Bau apa ini, Abu Nawas?”    “Ampun Baginda, tadi hamba buang angin lalu hamba masukkan ke dalam botol tersebut. Karena takut angin yang hamba masukkan itu keluar, maka hamba memenjarakannya dengan menyumbat botol dan menutupnya,” kata Abu Nawas dengan sangat ketakutan. Tapi, Raja tidak jadi marah, karena apa yang dikatakan Abu Nawas memang masuk akal.    Dan begitulah, ia selama. Sang Raja pun memberikannya hadiah.</string>
+
+    <string name="status_on">Status:ON</string>
+    <string name="status_off">Status:OFF</string>
+    <string name="kategori">Kategori</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="music_on">Music On</string>
+    <string name="music">Music</string>
+    <string name="music_off">Music Off</string>
+
+</resources>

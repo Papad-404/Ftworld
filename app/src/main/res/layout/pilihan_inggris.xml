@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/match"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:text="@string/little_match"
+                android:textSize="12sp"
+                android:drawableTop="@drawable/fairy1"/>
+
+            <Button
+                android:id="@+id/rumplestiltskin"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/match"
+                android:layout_toRightOf="@id/match"
+                android:drawableTop="@drawable/fairy2"
+                android:text="@string/rumplestiltskin"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/elves"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/match"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/fairy3"
+                android:text="@string/the_elves"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/hensel"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/rumplestiltskin"
+                android:layout_marginStart="17dp"
+                android:layout_marginLeft="17dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/elves"
+                android:layout_toRightOf="@id/elves"
+                android:drawableTop="@drawable/fairy4"
+                android:text="@string/hensel_and_gretel"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/snail"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/elves"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/fairy5"
+                android:text="@string/the_snail"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/duck"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/hensel"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/snail"
+                android:layout_toRightOf="@id/snail"
+                android:drawableTop="@drawable/fairy6"
+                android:text="@string/duck"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/pigs"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/snail"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="14dp"
+                android:drawableTop="@drawable/fairy7"
+                android:text="@string/little_pigs"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/twelve"
+                android:layout_width="183dp"
+                android:layout_height="187dp"
+                android:layout_below="@id/duck"
+                android:layout_marginStart="24dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="14dp"
+                android:layout_toEndOf="@id/pigs"
+                android:layout_toRightOf="@id/pigs"
+                android:drawableTop="@drawable/fairy8"
+                android:text="@string/the_twelve"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

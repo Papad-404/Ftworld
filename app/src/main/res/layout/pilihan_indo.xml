@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/buaya"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="14dp"
+        android:drawableTop="@drawable/buaya"
+        android:text="@string/cerita_1"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/Burung_hantu"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="20sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="14dp"
+        android:layout_toEndOf="@id/buaya"
+        android:layout_toRightOf="@id/buaya"
+        android:drawableTop="@drawable/owi"
+        android:text="@string/cerita_2"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/pando"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_below="@id/Burung_hantu"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="14dp"
+        android:drawableTop="@drawable/panndo"
+        android:text="@string/cerita_3"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/pikolo"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_below="@id/Burung_hantu"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="14dp"
+        android:layout_toEndOf="@id/pando"
+        android:layout_toRightOf="@id/pando"
+        android:drawableTop="@drawable/piikolo"
+        android:text="@string/cerita_4"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/nenek"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_below="@id/pando"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="14dp"
+        android:drawableTop="@drawable/witch"
+        android:text="@string/cerita_5"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/kunang"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_below="@id/pikolo"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="14dp"
+        android:layout_toEndOf="@id/nenek"
+        android:layout_toRightOf="@id/nenek"
+        android:drawableTop="@drawable/kunang2"
+        android:text="@string/cerita_6"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/cecil"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_below="@id/nenek"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="14dp"
+        android:drawableTop="@drawable/dino"
+        android:text="@string/cerita_7"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/alju"
+        android:layout_width="183dp"
+        android:layout_height="187dp"
+        android:layout_below="@id/kunang"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="14dp"
+        android:layout_toEndOf="@id/nenek"
+        android:layout_toRightOf="@id/nenek"
+        android:drawableTop="@drawable/alju"
+        android:text="@string/cerita_8"
+        android:textSize="12sp" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

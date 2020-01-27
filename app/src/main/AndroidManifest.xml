@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fairytalesworld">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Kategori"
+            android:parentActivityName=".MainActivity"/>
+
+        <activity android:name=".Pilihanindo"
+            android:parentActivityName=".Kategori" />
+
+        <activity android:name=".Ceriita1"
+            android:parentActivityName=".Pilihanindo" />
+
+        <activity android:name=".Ceriita2"
+            android:parentActivityName=".Pilihanindo"/>
+
+        <activity android:name=".Ceriita3"
+            android:parentActivityName=".Pilihanindo"/>
+
+        <activity android:name=".Ceriita4"
+            android:parentActivityName=".Pilihanindo"/>
+
+        <activity android:name=".Ceriita5"
+            android:parentActivityName=".Pilihanindo"/>
+
+        <activity android:name=".Ceriita6"
+            android:parentActivityName=".Pilihanindo"/>
+
+        <activity android:name=".Ceriita7"
+            android:parentActivityName=".Pilihanindo"/>
+
+        <activity android:name=".Ceriita8"
+            android:parentActivityName=".Pilihanindo"/>
+
+
+        <activity android:name=".PilihanInggris"
+            android:parentActivityName=".Kategori"/>
+
+        <activity android:name=".Fairytale1"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale2"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale3"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale4"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale5"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale6"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale7"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".Fairytale8"
+            android:parentActivityName=".PilihanInggris"/>
+
+        <activity android:name=".PilihanIslami"
+            android:parentActivityName=".Kategori"/>
+
+        <activity android:name=".Kisah"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah2"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah3"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah4"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah5"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah6"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah7"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah8"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah9"
+            android:parentActivityName=".PilihanIslami"/>
+
+        <activity android:name=".Kisah10"
+            android:parentActivityName=".PilihanIslami"/>
+
+    </application>
+
+</manifest>
